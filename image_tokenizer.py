@@ -29,7 +29,7 @@ img_transform_fn = transforms.Compose([
 
 def transform_img(example):
     # Convert PIL image to RGB and then apply the transformations
-    example['image'] = img_transform_fn(example['image'].convert('RGB'))
+    example['image_1'] = img_transform_fn(example['image_1'].convert('RGB'))
     return example
 
 @torch.no_grad()
@@ -47,12 +47,14 @@ def tokenize_image(images, tokenizer, device):
     return image_ids_list
 
 def main():
-    device = torch.device("cuda:7")
+    device = torch.device("cuda:0")
 
     # Load data
-    dataset = datasets.load_dataset("damerajee/clean_llava-instruct-mix", split="train")#.select(range(100))
+    dataset = dataset = datasets.load_dataset("MMMU/MMMU", "Accounting", split="test")#.select(range(100))
+    
     dataset = dataset.map(transform_img, num_proc=16)  # Parallelize map if possible
-    dataset.set_format("pt", columns=["image"], output_all_columns=True)
+    
+    dataset.set_format("pt", columns=["image_1"], output_all_columns=True)
     
     # Load tokenizer
     image_tokenizer = get_movqgan_model('270M', pretrained=True, device=device)
@@ -71,15 +73,15 @@ def main():
             
             # import pdb;pdb.set_trace()
             example = dataset[idx]
-            images = example['image'].unsqueeze(0)
+            images = example['image_1'].unsqueeze(0)
             
-            for entry in example['texts']:
-                if entry['from'] == 'human':
-                    data['prompt'] = entry['value'].split("<image>")[-1].strip()
-                elif entry['from'] == 'gpt':
-                    data['response'] = entry['value']
+            # for entry in example['texts']:
+            #     if entry['from'] == 'human':
+            #         data['prompt'] = entry['value'].split("<image>")[-1].strip()
+            #     elif entry['from'] == 'gpt':
+            #         data['response'] = entry['value']
                 
-            image_ids_list = tokenize_image(images=example['image'].unsqueeze(0), tokenizer=image_tokenizer, device=device)
+            image_ids_list = tokenize_image(images=example['image_1'].unsqueeze(0), tokenizer=image_tokenizer, device=device)
             
             
                 
