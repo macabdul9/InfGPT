@@ -1,0 +1,7 @@
+{
+    "task": "Agriculture",
+    "dataset": "MMMU",
+    "model": "GVLAM-Phi2",
+    "num_examples": 30,
+    "accuracy": 0.2
+}

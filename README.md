@@ -38,3 +38,8 @@ TASK_DICT = {
     "t2s":"Text2Speech"
 }
 ```
+
+
+Steps
+1. Tokenize the data for each config
+2. Run the eval for that config

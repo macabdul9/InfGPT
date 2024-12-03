@@ -50,7 +50,8 @@ def main():
     device = torch.device("cuda:0")
 
     # Load data
-    dataset = dataset = datasets.load_dataset("MMMU/MMMU", "Accounting", split="test")#.select(range(100))
+    config = "Art"
+    dataset = dataset = datasets.load_dataset("MMMU/MMMU", config, split="validation")#.select(range(100))
     
     dataset = dataset.map(transform_img, num_proc=16)  # Parallelize map if possible
     
@@ -93,7 +94,7 @@ def main():
                 
     
     df.to_csv("image2text.csv", index=False)
-    df.to_csv("final_results.csv", index=False)
+    df.to_csv(f"{config}.csv", index=False)
 
 if __name__ == '__main__':
     main()
