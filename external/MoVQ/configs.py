@@ -1,0 +1,72 @@
+
+MODELS = {
+    '67M': dict(
+        description='',
+        model_params=dict(
+            ddconfig={
+                "double_z": False,
+                "z_channels": 4,
+                "resolution": 256,
+                "in_channels": 3,
+                "out_ch": 3,
+                "ch": 128,
+                "ch_mult": [1, 2, 2, 4],
+                "num_res_blocks": 2,
+                "attn_resolutions": [32],
+                "dropout": 0.0,
+            },
+            n_embed=16384,
+            embed_dim=4,
+        ),
+        repo_id='ai-forever/MoVQGAN',
+        filename='movqgan_67M.ckpt',
+        authors='SberAI',
+        full_description='',
+    ),
+    '102M': dict(
+        description='',
+        model_params=dict(
+            ddconfig={
+                "double_z": False,
+                "z_channels": 4,
+                "resolution": 256,
+                "in_channels": 3,
+                "out_ch": 3,
+                "ch": 128,
+                "ch_mult": [1, 2, 2, 4],
+                "num_res_blocks": 4,
+                "attn_resolutions": [32],
+                "dropout": 0.0,
+            },
+            n_embed=16384,
+            embed_dim=4,
+        ),
+        repo_id='ai-forever/MoVQGAN',
+        filename='movqgan_102M.ckpt',
+        authors='SberAI',
+        full_description='',
+    ),
+    '270M': dict(
+        description='',
+        model_params=dict(
+            ddconfig={
+                "double_z": False,
+                "z_channels": 4,
+                "resolution": 256,
+                "in_channels": 3,
+                "out_ch": 3,
+                "ch": 256,
+                "ch_mult": [1, 2, 2, 4],
+                "num_res_blocks": 2,
+                "attn_resolutions": [32],
+                "dropout": 0.0,
+            },
+            n_embed=16384,
+            embed_dim=4,
+        ),
+        repo_id='ai-forever/MoVQGAN',
+        filename='movqgan_270M.ckpt',
+        authors='SberAI',
+        full_description='',
+    )
+}
