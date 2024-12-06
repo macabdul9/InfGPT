@@ -1,0 +1,13 @@
+{
+    "MultiSpeakerDetection": "macabdul9/MultiSpeakerDetection_VCTK",
+    "IntentClassification": "macabdul9/IntentClassification_FluentSpeechCommands-Action",
+    "AccentClassification": "macabdul9/AccentClassification_AccentdbExtended",
+    "SpeechDetection": "macabdul9/SpeechDetection_LibriSpeech-TestClean",
+    "BirdSoundDetection": "macabdul9/BirdSoundDetection_Warblrb10k",
+    "EmotionRecognition": "macabdul9/EmotionRecognition_MultimodalEmotionlinesDataset",
+    "SpeechTextMatching": "macabdul9/SpeechTextMatching_LJSpeech",
+    "LanguageIdentification": "macabdul9/LanguageIdentification_VoxForge",
+    "SarcasmDetection": "macabdul9/SarcasmDetection_Mustard",
+    "NoiseDetection": "macabdul9/NoiseDetection_LJSpeech_MUSAN-Gaussian",
+    "ChordClassification": "macabdul9/ChordClassification_AcousticGuitarAndPiano"
+}
