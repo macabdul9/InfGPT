@@ -33,3 +33,5 @@ python anygpt/src/infer/cli_infer_base_model.py \
 ## if all works, you can provide it with prompts :) but in a specific format highlighted in the
 ## anygpt repo OpenMOSS/AnyGPT
 
+
+

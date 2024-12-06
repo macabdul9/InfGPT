@@ -1,0 +1,7 @@
+{
+    "task": "SpeechTextMatching",
+    "dataset": "speech_tasks.json",
+    "model": "phi2_baseline_movq_speechtokenizer_init_data_simple_briging_prompt_240604",
+    "num_examples": 200,
+    "accuracy": "50.50"
+}

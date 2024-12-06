@@ -1,0 +1,201 @@
+question,options,answer,generated_answer,gpt-4o-mini_output
+Detect if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,no,Incorrect
+Identify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Discern a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,5,Incorrect
+Discern a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,no,Incorrect
+Classify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,No,Incorrect
+Classify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,No,Incorrect
+Identify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,No,Incorrect
+Identify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Recognize a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,minor,Incorrect
+Analyze if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,minor,Correct
+Recognize a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Ascertain if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,yes,Incorrect
+Differentiate between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,No,Incorrect
+Recognize a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Analyze and decide a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Detect if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Analyze and decide a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,Neither,Incorrect
+Analyze if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Classify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Classify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Differentiate between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,major,1,Incorrect
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Recognize a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,yes,Incorrect
+Classify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Identify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,min,Incorrect
+Recognize a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,5,Incorrect
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Differentiate between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Identify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,yes,Incorrect
+Ascertain if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,no,Incorrect
+Classify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,neither,Incorrect
+Detect if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,1,Incorrect
+Ascertain if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Analyze and decide a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Ascertain if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Identify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Discern a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Analyze if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Discern a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Identify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Classify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Identify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,no,Incorrect
+Identify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Analyze if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Discern a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Analyze if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,No,Incorrect
+Identify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,<aud_00830><aud_00146><aud_00028><aud_00146><aud_00146><aud_00982><aud_00146><aud_00146><aud_00146><aud_00073><aud_00073><aud_00073><aud_00146><aud_00146><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00146><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00146><aud_00146><aud_00146><aud_00146><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00146><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00146><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00146><aud_00073><aud_00146><aud_00146><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00146><aud_00146><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00146><aud_00146><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00146><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00146><aud_00146><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00146><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00146><aud_00146><aud_00073><aud_00073><aud_00073><aud_00146><aud_00146><aud_00073><aud_00073><aud_00073><aud_00146><aud_00146><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00146><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00146><aud_00146><aud_00146><aud_00073><aud_00073><aud_00146><aud_00073><aud_00146><aud_00146><aud_00073><aud_00073><aud_00073><aud_00146><aud_00058><aud_00073><aud_00146><aud_00146><aud_00073><aud_00146><aud_00146><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00146><aud_00146><aud_00146><aud_00146><aud_00073><aud_00073><aud_00073><aud_00146><aud_00146><aud_00073><aud_00146><aud_00146><aud_00146><aud_00073><aud_00073><aud_00146><aud_00146><aud_00073><aud_00073><aud_00073><aud_00073><aud_00146><aud_00146><aud_00146><aud_00073><aud_00073><aud_00073><aud_00146><aud_00146><aud_00146><aud_00146><aud_00073><aud_00073><aud_00146><aud_00146><aud_00146><aud_00073><aud_00146><aud_00073><aud_00146><aud_00146><aud_00146><aud_00073><aud_00146><aud_00073><aud_00146><aud_00146><aud_00073><aud_00073><aud_00146><aud_00146><aud_00146><aud_00073><aud_00146><aud_00146><aud_00146><aud_00073><aud_00146><aud_00073><aud_00146><aud_00146><aud_00146><aud_00146><aud_00073><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00073><aud_00146><aud_00146><aud_00073><aud_00146><aud_00146><aud_00146><aud_00073><aud_00073><aud_00146><aud_00146><aud_00146><aud_00146><aud_00073><aud_00073><aud_00146><aud_00146><aud_00146><aud_00073><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00073><aud_00146><aud_00146><aud_00146><aud_00146><aud_00073><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00073><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00073><aud_00073><aud_00073><aud_00146><aud_00146><aud_00146><aud_00073><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00073><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00073><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00073><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00073><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146><aud_00146>,Incorrect
+Classify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Analyze and decide a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Analyze and decide a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Analyze if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Classify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,No,Incorrect
+Differentiate between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,No,Incorrect
+Detect if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,neither,Incorrect
+Analyze and decide a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Analyze if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Classify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Recognize a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,Major,Incorrect
+Identify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Analyze and decide a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Analyze if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Discern a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Discern a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Identify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Identify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Identify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,yes,Incorrect
+Recognize a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,No,Incorrect
+Classify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Classify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Classify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,B,Correct
+Identify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Ascertain if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Analyze and decide a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,minor,Incorrect
+Classify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,The answer is C,Incorrect
+Analyze if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Differentiate between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Recognize a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Ascertain if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,no,Incorrect
+Identify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,<aud_00366>,Incorrect
+Analyze and decide a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Ascertain if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,small,Incorrect
+Classify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Analyze if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Analyze and decide a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,"Yes, the piece is in the key of C major.",Correct
+Analyze if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,No,Incorrect
+Analyze if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Analyze and decide a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Discern a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,No,Incorrect
+Identify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,no,Incorrect
+Detect if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Differentiate between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,The major key.,Incorrect
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Recognize a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,major,neither,Incorrect
+Discern a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Detect if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Differentiate between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Differentiate between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,major,no,Incorrect
+Analyze and decide a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,major,The major tone or minor tone for piano and guitar are minor.,Incorrect
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Analyze and decide a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Recognize a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,major,Minimal,Incorrect
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Classify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Classify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,no,Incorrect
+Analyze if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,min,Incorrect
+Classify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,no,Incorrect
+Identify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Classify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,"big, big, big, big, big",Incorrect
+Detect if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,<aud_00366>,Incorrect
+Differentiate between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Classify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,<aud_00366>,Incorrect
+Detect if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Classify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Classify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,No,Incorrect
+Discern a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,11,Incorrect
+Analyze and decide a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Classify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,No,Incorrect
+Recognize a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Differentiate between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,major,No,Incorrect
+Classify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,No,Incorrect
+Classify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Classify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,No,Incorrect
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Recognize a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,No,Incorrect
+Detect if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Ascertain if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Detect if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Analyze and decide a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Detect if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Identify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Identify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Recognize a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Analyze and decide a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Identify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Ascertain if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,both,Incorrect
+Recognize a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,major,No,Incorrect
+Analyze if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,No,Incorrect
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,neither,Incorrect
+Identify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Recognize a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Discern a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Classify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Recognize a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Classify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Classify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Detect if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,0,Incorrect
+Analyze if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Analyze and decide a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,No,Incorrect
+Identify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,neither,Incorrect
+Identify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,No,Incorrect
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Analyze and decide a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Recognize a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,8,Incorrect
+Recognize a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Discern a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Analyze if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,No,Incorrect
+Identify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Classify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Differentiate between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Analyze if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Classify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,yes,Incorrect
+Detect if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Ascertain if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,<aud_00982> <aud_00982><aud_00982><aud_00982><aud_00982><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073><aud_00073>,Incorrect
+Identify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,<aud_00366>,Incorrect
+Differentiate between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,major,No,Incorrect
+Discern a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Discern a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Identify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Differentiate between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Identify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,neither,Incorrect
+Identify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,yes,Incorrect
+Detect if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,no,Incorrect
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Identify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Ascertain if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Identify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Analyze if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Identify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,5,Incorrect
+Identify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,yes,Incorrect
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,minor,Correct
+Discern a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,No,Incorrect
+Discern a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Detect if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,no,Incorrect
+Analyze and decide a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Analyze if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Analyze and decide a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Identify whether a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct
+Distinguish between the major tone or minor tone for piano and guitar. The answer could be major or minor.,A. minor B. major,minor,major,Incorrect
+Classify if a tune is major or minor for piano and guitar. The answer could be major or minor.,A. minor B. major,major,major,Correct

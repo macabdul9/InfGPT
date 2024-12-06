@@ -1,7 +1,7 @@
-question,options,answer,generated_answer
-Express the note value of <image 1> with three dotted notes,A. <image 2> B. <image 3> C. <image 4> D. <image 5>,C,>
-True or False. <image 1>,A. True B. False,A,>
-Select the type of each interval. <image 1>,A. perfect B. major C. diminished D. augmented,B,
+question,options,answer,generated_answer,gpt-4o-mini_output
+Express the note value of <image 1> with three dotted notes,A. <image 2> B. <image 3> C. <image 4> D. <image 5>,C,>,Incorrect
+True or False. <image 1>,A. True B. False,A,>,Incorrect
+Select the type of each interval. <image 1>,A. perfect B. major C. diminished D. augmented,B,,Incorrect
 "<image 1> Based on the time signature, the number of measures/bars in the following music score is _____.",A. 6 B. 7 C. 5 D. 4,B,">
 
 
@@ -181,7 +181,7 @@ Select the type of each interval. <image 1>,A. perfect B. major C. diminished D.
 
 
 
->"
+>",Incorrect
 True or False. <image 1>,A. True B. False,B,">
 
 
@@ -614,8 +614,8 @@ True or False. <image 1>,A. True B. False,B,">
 
 
 
->"
-<image 1> The second measure of the above example uses which rhythmic device?,A. Anacrusis B. Hemiola C. Suspension D. Augmentation,B,>
+>",Incorrect
+<image 1> The second measure of the above example uses which rhythmic device?,A. Anacrusis B. Hemiola C. Suspension D. Augmentation,B,>,Incorrect
 <image 1> Select to name the chord marked at position A. The key is E minor.,A. Vb B. Vc C. IIa D. IIb,B,"><>
 
 
@@ -1030,9 +1030,9 @@ True or False. <image 1>,A. True B. False,B,">
 
 
 
->"
-<image 1> Name the harmony in the above example.,A. C°7 B. AØ7 C. G°7 D. EbØ7,B,
-Which of the following chords belongs to the first inversion of a major-minor seventh chord (including both close and open voicings)? <image 1>,A. BD B. CD C. BC D. AB,C,
+>",Incorrect
+<image 1> Name the harmony in the above example.,A. C°7 B. AØ7 C. G°7 D. EbØ7,B,,Incorrect
+Which of the following chords belongs to the first inversion of a major-minor seventh chord (including both close and open voicings)? <image 1>,A. BD B. CD C. BC D. AB,C,,Incorrect
 Determine True or False: This is the leading note in E major. <image 1>,A. True B. False,B,">
 
 
@@ -1235,7 +1235,7 @@ Determine True or False: This is the leading note in E major. <image 1>,A. True 
 >
 
 >
->"
+>",Incorrect
 "Name the written-out ornament, which is marked with bracket. <image 1>",A. acciaccatura B. appoggiat C. lower morden D. upper turns,C,">
 
 
@@ -1355,9 +1355,9 @@ Determine True or False: This is the leading note in E major. <image 1>,A. True 
 
 
 
->"
-"<image 1> Bar 8 is the quietest bar in the music, true or false?",A. True B. False,A,>
-Which of the following time signatures have standard notation? <image 1>,A. BC B. AD C. AC D. AB,C,
+>",Incorrect
+"<image 1> Bar 8 is the quietest bar in the music, true or false?",A. True B. False,A,>,Incorrect
+Which of the following time signatures have standard notation? <image 1>,A. BC B. AD C. AC D. AB,C,,Incorrect
 <image 1> Select one box to name the interval.,A. box 1 B. box 2 C. box 3 D. box 4,B,"<
 
 
@@ -1570,8 +1570,8 @@ Which of the following time signatures have standard notation? <image 1>,A. BC B
 <
 
 
->"
-Select the name of this note. <image 1>,A. C B. D C. B D. G,A,
+>",Incorrect
+Select the name of this note. <image 1>,A. C B. D C. B D. G,A,,Incorrect
 "Among the following rests, which one does not have a compound dotted duration?",A. <image 1> B. <image 2> C. <image 3> D. <image 4>,B,">
 
 
@@ -1605,8 +1605,8 @@ Select the name of this note. <image 1>,A. C B. D C. B D. G,A,
 
 
 
->"
-<image 1> Choose one clef to form minor scale.,A. first clef B. second clef C. third clef D. fourth clef,B,>
+>",Incorrect
+<image 1> Choose one clef to form minor scale.,A. first clef B. second clef C. third clef D. fourth clef,B,>,Incorrect
 "Based on the following two sounds, you can determine that they belong to? <image 1>",A. #F major scale B. c melodic minor scale C. b harmonic minor scale D. E melodic major scale,B,">
 
 
@@ -1751,11 +1751,11 @@ Select the name of this note. <image 1>,A. C B. D C. B D. G,A,
 
 
 
->"
-"In 2/4 time signature, which of the following is the correct notation? <image 1>",A. A B. B C. C D. D,B,
+>",Incorrect
+"In 2/4 time signature, which of the following is the correct notation? <image 1>",A. A B. B C. C D. D,B,,Incorrect
 "Among the following melody fragments, which are compound meters? 
- <image 1>",A. AB B. BC C. BCD D. ABCD,D,>
-"<image 1><image 2>Describe fully the numbered and bracketed harmonic intervals sounding between third horn and second violins, bar 11",A. perfect 4th B. major 9th/ compound major 2nd C. augmented 5th D. perfect unison,C,>
+ <image 1>",A. AB B. BC C. BCD D. ABCD,D,>,Incorrect
+"<image 1><image 2>Describe fully the numbered and bracketed harmonic intervals sounding between third horn and second violins, bar 11",A. perfect 4th B. major 9th/ compound major 2nd C. augmented 5th D. perfect unison,C,>,Incorrect
 <image 1> Which of the following best describes the seventh chord in the above example?,A. Major seventh in third inversion B. Dominant seventh in second inversion C. Major/minor seventh in third inversion D. Minor seventh in second inversion,A,">
 
 
@@ -1921,7 +1921,7 @@ Select the name of this note. <image 1>,A. C B. D C. B D. G,A,
 
 >
 >
->"
+>",Incorrect
 <image 1><image 2>,A. box 1 B. box 2 C. box 3 D. None of above,C,">
 
 
@@ -2025,10 +2025,10 @@ Select the name of this note. <image 1>,A. C B. D C. B D. G,A,
 
 
 
->"
-Tick one box to name each of the marked chord C. The key is Bb major. <image 1>,A. Va B. Vb C. Ib D. Ic,D,
-<image 1> Select the type of the interval.,A. perfect B. major C. minor D. diminished,B,
-This is the mediant in F major <image 1>,A. True B. False,B,
+>",Incorrect
+Tick one box to name each of the marked chord C. The key is Bb major. <image 1>,A. Va B. Vb C. Ib D. Ic,D,,Incorrect
+<image 1> Select the type of the interval.,A. perfect B. major C. minor D. diminished,B,,Incorrect
+This is the mediant in F major <image 1>,A. True B. False,B,,Incorrect
 <image 1> How many times does enharmonic modulation appear in the following melody?,A. 1 B. 3 C. 2 D. 4,C,">
 
 
@@ -2197,7 +2197,7 @@ This is the mediant in F major <image 1>,A. True B. False,B,
 >
 
 >
->"
+>",Incorrect
 Name the intervals. <image 1>,A. augmented 5th B. minor 7th C. major 6th D. perfect 11th,B,">
 
 >
@@ -2227,6 +2227,6 @@ Name the intervals. <image 1>,A. augmented 5th B. minor 7th C. major 6th D. perf
 
 
 
->"
-<image 1> <image 2>,A. box1 B. box2 C. box3 D. box4,D,>
-<image 1> Circle the correct key of the melody.,A. circle the first option B. circle the second option C. circle the third option D. circle the fourth option,A,
+>",Incorrect
+<image 1> <image 2>,A. box1 B. box2 C. box3 D. box4,D,>,Incorrect
+<image 1> Circle the correct key of the melody.,A. circle the first option B. circle the second option C. circle the third option D. circle the fourth option,A,,Incorrect

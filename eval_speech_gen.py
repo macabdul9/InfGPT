@@ -91,28 +91,27 @@ def main(args):
             prompt_length = inputs['input_ids'].shape[1]
 
             # # Generate output
-            # outputs = model.generate(
-            #     **inputs,
-            #     max_new_tokens=max_length,
-            #     num_return_sequences=num_return_sequences,
-            #     pad_token_id=tokenizer.eos_token_id,
-            #     do_sample=True,
-            #     temperature=0.7,
-            # )
-            
             outputs = model.generate(
                 **inputs,
-                max_new_tokens=512,
+                max_new_tokens=max_length,
                 num_return_sequences=num_return_sequences,
-                pad_token_id=tokenizer.eos_token_id,  # To avoid warnings for models without pad_token_id
-                temperature=0.7,
-                top_k=100,
-                top_p=0.97,
-                do_sample=True,  # For more diverse outputs
+                pad_token_id=tokenizer.eos_token_id,
+                temperature=0.0,
             )
             
+            # outputs = model.generate(
+            #     **inputs,
+            #     max_new_tokens=512,
+            #     num_return_sequences=num_return_sequences,
+            #     pad_token_id=tokenizer.eos_token_id,  # To avoid warnings for models without pad_token_id
+            #     temperature=0.7,
+            #     top_k=100,
+            #     top_p=0.97,
+            #     do_sample=True,  # For more diverse outputs
+            # )
+            
             answer = tokenizer.decode(outputs[0][prompt_length:], skip_special_tokens=True).strip()
-            # import pdb;pdb.set_trace()
+            import pdb;pdb.set_trace()
             
             # import pdb;pdb.set_trace()
             
@@ -125,6 +124,7 @@ def main(args):
         # import pdb;pdb.set_trace()
 
 if __name__ == "__main__":
+    
     parser = argparse.ArgumentParser(
         prog="eval_speech_tasks.py",
         description="Evaluate multiple speech tasks with a zero-shot model",

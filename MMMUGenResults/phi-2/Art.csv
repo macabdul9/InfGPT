@@ -1,28 +1,28 @@
-question,options,answer,generated_answer
-"This Roman portrait mummy <image 1> from the 1st century AD was discovered in Cairo, Egypt, and now belongs in the collection of Girton College, University of Cambridge. Which well-known fictional character does this woman share her name with?",A. Aurelia B. Matilda C. Hermione D. Juno,C,
-Who created <image 1>?,A. SERGE VINOGRADOV B. GEORGES SEURAT C. VINCENT WILLEM VAN GOGH D. PAUL GAUGUIN,B,
-Name the Artist of <image 1>:,A. CLAUDE MONET B. HENRI MATISSE C. HENRI DE TOULOUSE-LAUTREC D. EDOUARD MANET,C,
-Slight? what can be fixed by editing programs after it has been shot? (fill in the <image 1>),A. Colour B. Aperture problems C. Blurs D. Over and underexposure,D,>
-Who created <image 1>?,A. PAUL SIGNAC B. HENRI MATISSE C. JOHN SINGER SARGENT D. PIERRE-AUGUSTE RENOIR,D,
-What is <image 1> known as?,"A. Lady with an Ermine B. First Steps C. Nude Descending a Staircase, No. 2 D. Woman with a parasol",D,>
-True or False: <image 1> is painted by Michelangelo,A. True B. False C. No enough evidence,A,
-<image 1>: A Conversation with the Sea stands in which British seaside town?,"A. Herne Bay, Kent B. St Ives, Cornwall C. Aldeburgh, Suffolk D. Sandown, Isle of Wight",C,
-Many of Frederic Leighton's early paintings took their inspiration from the Renaissance art historian Giorgio Vasari's text The Lives of the Artists. It includes <image 1> that shows the death of which famous figure?,A. Cimabue B. Donatello C. Giotto D. Brunelleschi,D,
-Who painted <image 1>?,A. Edgar Degas B. Vincent van Gogh C. Gustav Klimt D. Claude Monet,B,
-Who created <image 1>?,A. ARKHIP KUINII B. PAUL SIGNAC C. GEORGES SEURAT D. VALENTIN SEROV,C,>
-Who created <image 1>?,A. PAUL CÉZANNE B. EDVARD MUNCH C. EDGAR DEGAS D. ANDY WARHOL,A,
-What movement of art would you consider <image 1> to be?,A. Neoclassical B. Baroque C. Renaissance D. Rococo,A,>
-Who is depicted in <image 1> by Malcolm Drummond?,A. Spencer Gore B. Harold Gilman C. Charles Ginner D. William Ratcliffe,C,>
-Who created <image 1>?,A. ANTONELLO DA MESSINA B. MICHELANGELO BUONARROTI C. PETER BRUEGEL D. LUCAS CRANACH THE ELDER,B,
-True or False: The name of <image 1> is 'This is not a Pipe' by René Magritte,A. True B. False C. No enough evidence,B,>
-Mayan chacmool sculptures such as this one heavily influenced which of the following twentieth-century sculptors? <image 1>,A. Louise Bourgeois B. Henry Moore C. Barbara Hepworth D. Constantin Brancusi,B,
-This 15th-century tempera on panel <image 1> is housed in Museums Sheffield and depicts which female saint?,A. Barbara B. Apollonia C. Philomena D. Hilda,A,
-Which of these images in <image 1> features a strong use of negative space?,A. Photo 1 B. Photo 2 C. Photos 2 & 3 D. Photo 3,D,>
-"Which artist painted <image 1> of William Hunter, founder of the Hunterian?",A. Sir Joshua Reynolds B. Sir Henry Raeburn C. George Romney D. Allan Ramsay,D,
-This depiction of <image 1> was a popular subject matter painted by several artists in the 16th and 17th centuries...  who painted this one?  ,A. Peter Paul Rubens 1675 B. Caravaggio 1635 C. Artemisia Gentileschi 1612-13 D. Francisco de Zurbarán 1614,C,
-Evelyn De Morgan often used literary sources to inspire her artworks. Which book featuring mermaids might have inspired her painting <image 1>?,A. The Water Babies by Charles Kingsley (1863) B. The Little Mermaid by Hans Christian Andersen (1836) C. Around the World in 80 Days by Jules Verne (1873) D. Moby-Dick by Herman Melville (1851),B,
-Margaret Gere's <image 1> was made in which medium?,A. Egg tempera B. Watercolour C. Ink D. Oil paint,A,
-"Read the paragraph below regarding <image 1> and then answer the questions that follow. Elizabeth Catlett's sculpture tells a warm and tender story. It is a story of the unbreakable bond that unites a mother and her child. Like a good storyteller, Catlett is economical in her use of imagery. There are no visual frills or adornments, no reliance on gaudy color or superfluous detail. There is little more than fluidity of line and grace. Yet the sculpture speaks volumes about the deepest and most profound of all human relationships. Personification is a literary device in which human qualities are ascribed to a nonhuman subject. Which statement best captures the personification in the passage?",A. The bond between mother and child is described as unbreakable. B. A sculpture is described as speaking. C. The artist is described as a storyteller. D. A sculpture is without frills.,B,
+question,options,answer,generated_answer,gpt-4o-mini_output
+"This Roman portrait mummy <image 1> from the 1st century AD was discovered in Cairo, Egypt, and now belongs in the collection of Girton College, University of Cambridge. Which well-known fictional character does this woman share her name with?",A. Aurelia B. Matilda C. Hermione D. Juno,C,,Incorrect
+Who created <image 1>?,A. SERGE VINOGRADOV B. GEORGES SEURAT C. VINCENT WILLEM VAN GOGH D. PAUL GAUGUIN,B,,Incorrect
+Name the Artist of <image 1>:,A. CLAUDE MONET B. HENRI MATISSE C. HENRI DE TOULOUSE-LAUTREC D. EDOUARD MANET,C,,Incorrect
+Slight? what can be fixed by editing programs after it has been shot? (fill in the <image 1>),A. Colour B. Aperture problems C. Blurs D. Over and underexposure,D,>,Incorrect
+Who created <image 1>?,A. PAUL SIGNAC B. HENRI MATISSE C. JOHN SINGER SARGENT D. PIERRE-AUGUSTE RENOIR,D,,Incorrect
+What is <image 1> known as?,"A. Lady with an Ermine B. First Steps C. Nude Descending a Staircase, No. 2 D. Woman with a parasol",D,>,Incorrect
+True or False: <image 1> is painted by Michelangelo,A. True B. False C. No enough evidence,A,,Incorrect
+<image 1>: A Conversation with the Sea stands in which British seaside town?,"A. Herne Bay, Kent B. St Ives, Cornwall C. Aldeburgh, Suffolk D. Sandown, Isle of Wight",C,,Incorrect
+Many of Frederic Leighton's early paintings took their inspiration from the Renaissance art historian Giorgio Vasari's text The Lives of the Artists. It includes <image 1> that shows the death of which famous figure?,A. Cimabue B. Donatello C. Giotto D. Brunelleschi,D,,Incorrect
+Who painted <image 1>?,A. Edgar Degas B. Vincent van Gogh C. Gustav Klimt D. Claude Monet,B,,Incorrect
+Who created <image 1>?,A. ARKHIP KUINII B. PAUL SIGNAC C. GEORGES SEURAT D. VALENTIN SEROV,C,>,Incorrect
+Who created <image 1>?,A. PAUL CÉZANNE B. EDVARD MUNCH C. EDGAR DEGAS D. ANDY WARHOL,A,,Incorrect
+What movement of art would you consider <image 1> to be?,A. Neoclassical B. Baroque C. Renaissance D. Rococo,A,>,Incorrect
+Who is depicted in <image 1> by Malcolm Drummond?,A. Spencer Gore B. Harold Gilman C. Charles Ginner D. William Ratcliffe,C,>,Incorrect
+Who created <image 1>?,A. ANTONELLO DA MESSINA B. MICHELANGELO BUONARROTI C. PETER BRUEGEL D. LUCAS CRANACH THE ELDER,B,,Incorrect
+True or False: The name of <image 1> is 'This is not a Pipe' by René Magritte,A. True B. False C. No enough evidence,B,>,Incorrect
+Mayan chacmool sculptures such as this one heavily influenced which of the following twentieth-century sculptors? <image 1>,A. Louise Bourgeois B. Henry Moore C. Barbara Hepworth D. Constantin Brancusi,B,,Incorrect
+This 15th-century tempera on panel <image 1> is housed in Museums Sheffield and depicts which female saint?,A. Barbara B. Apollonia C. Philomena D. Hilda,A,,Incorrect
+Which of these images in <image 1> features a strong use of negative space?,A. Photo 1 B. Photo 2 C. Photos 2 & 3 D. Photo 3,D,>,Incorrect
+"Which artist painted <image 1> of William Hunter, founder of the Hunterian?",A. Sir Joshua Reynolds B. Sir Henry Raeburn C. George Romney D. Allan Ramsay,D,,Incorrect
+This depiction of <image 1> was a popular subject matter painted by several artists in the 16th and 17th centuries...  who painted this one?  ,A. Peter Paul Rubens 1675 B. Caravaggio 1635 C. Artemisia Gentileschi 1612-13 D. Francisco de Zurbarán 1614,C,,Incorrect
+Evelyn De Morgan often used literary sources to inspire her artworks. Which book featuring mermaids might have inspired her painting <image 1>?,A. The Water Babies by Charles Kingsley (1863) B. The Little Mermaid by Hans Christian Andersen (1836) C. Around the World in 80 Days by Jules Verne (1873) D. Moby-Dick by Herman Melville (1851),B,,Incorrect
+Margaret Gere's <image 1> was made in which medium?,A. Egg tempera B. Watercolour C. Ink D. Oil paint,A,,Incorrect
+"Read the paragraph below regarding <image 1> and then answer the questions that follow. Elizabeth Catlett's sculpture tells a warm and tender story. It is a story of the unbreakable bond that unites a mother and her child. Like a good storyteller, Catlett is economical in her use of imagery. There are no visual frills or adornments, no reliance on gaudy color or superfluous detail. There is little more than fluidity of line and grace. Yet the sculpture speaks volumes about the deepest and most profound of all human relationships. Personification is a literary device in which human qualities are ascribed to a nonhuman subject. Which statement best captures the personification in the passage?",A. The bond between mother and child is described as unbreakable. B. A sculpture is described as speaking. C. The artist is described as a storyteller. D. A sculpture is without frills.,B,,Incorrect
 Who painted <image 1>?,A. Claude Monet B. Henri Matisse C. Andy Warhol D. Georgia O'Keefe,C,">
 
 
@@ -186,9 +186,9 @@ Who painted <image 1>?,A. Claude Monet B. Henri Matisse C. Andy Warhol D. Georgi
 >
 >
 >
->"
-Leighton was a keen traveller and during his trips he would make small landscape studies of the places he visited. Which city is shown in <image 1>?,A. Damascus B. Cairo C. Granada D. Algiers,A,
-"Based on <image 1>, the muse Henrietta Moraes sat for artists Francis Bacon and Lucian Freud. Which female artist did she also sit for?",A. Maggi Hambling B. Elisabeth Frink C. Barbara Hepworth D. Georgia O'Keeffe,A,
+>",Incorrect
+Leighton was a keen traveller and during his trips he would make small landscape studies of the places he visited. Which city is shown in <image 1>?,A. Damascus B. Cairo C. Granada D. Algiers,A,,Incorrect
+"Based on <image 1>, the muse Henrietta Moraes sat for artists Francis Bacon and Lucian Freud. Which female artist did she also sit for?",A. Maggi Hambling B. Elisabeth Frink C. Barbara Hepworth D. Georgia O'Keeffe,A,,Incorrect
 "Based on <image 1>. When lines meet to form an enclosed area, this is formed.",A. Space B. Shape C. Form D. Line,B,">
 
 
@@ -623,6 +623,6 @@ Leighton was a keen traveller and during his trips he would make small landscape
 
 
 
->"
-This painting titled <image 1> was painted by...,A. Pablo Picasso B. Diego Velazquez C. Rembrandt D. El Greco,B,
-Who created <image 1>?,A. MARTIN SCHONGAUER B. TITIAN C. ROGIER VAN DER WEYDEN D. HANS MEMLING,B,>
+>",Incorrect
+This painting titled <image 1> was painted by...,A. Pablo Picasso B. Diego Velazquez C. Rembrandt D. El Greco,B,,Incorrect
+Who created <image 1>?,A. MARTIN SCHONGAUER B. TITIAN C. ROGIER VAN DER WEYDEN D. HANS MEMLING,B,>,Incorrect

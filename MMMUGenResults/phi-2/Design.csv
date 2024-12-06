@@ -1,31 +1,31 @@
-question,options,answer,generated_answer
-The work shown (<image 1>) fulfills which of the following functions?,A. It represents musical notation through symbols. B. It facilitates mathematical calculations. C. It conveys a historical narrative. D. It contains sacred relics.,C,>
-What was George Seurat's goal in his 'Divisionist' paintings? (<image 1>),A. to enliven paintings through the use of scientific theories about color and optic function B. to bring Classical structure to the Impressionists' approach to painting C. to use color to generate a strong emotional response from the viewer D. to produce an idiosyncratic style characterized by the use of small dots of color,D,>
-This principle involves the distribution of visual weight and is achieved by the way details are grouped. Balance in Garments...<image 1>,A. Proximity B. Alignment C. Contrast D. Unity,A,>
-"Who was the alumni that taught at the school first, served as a tea server in 1925, had three paintings at the George Eastman hall of RIT, and also did the wall in Gosnell?<image 1>",A. Josef Albers B. George Eastman C. Gosnell Hall D. Tea Server 1925,A,>
-The work (<image 1>) has been interpreted as a visual document of all of the following EXCEPT,A. marriage B. betrothal C. coronation D. legal contract,C,>
-What is the title of this design?<image 1>,A. Zenith 'Guardian Ear & Radio Nurse' B. Innovative Hearing Aid Technology C. Ear and Radio Communication Advancements D. The Future of Guardian Technology,A,>
-What is the title of this design?<image 1>,A. Chanel No. 5 perfume B. Perfume Manufacturing Process C. The Art of Perfumery D. History of Chanel,A,>
-The artist of the work (<image 1>) on the left is,A. Masaccio B. Piero della Francesca C. Fra Angelico D. Giotto,C,>
-(<image 1>) The medium of The Harbaville Triptych is:,A. carved ivory B. fresco secco C. marble D. mosaic,A,>
-Identify this neckline: <image 1>,A. V-neck B. Cowl neckline C. Halter neckline D. Sweetheart neckline,D,>
-<image 1> on the right reflects an interest in,A. accurately copying figures and subject matter from nature B. aligning the Old Testament and the New Testament through typology C. emphasizing the role of the saints in the church D. asserting imperial authority over the church,B,>
-What type of sleeve is this? <image 1>,A. Bell Sleeve B. Puff Sleeve C. Cap Sleeve D. Raglan Sleeve,A,>
-The use of over one million small tiles to make the Alexander Mosaic allowed its creator to . <image 1>,A. depict a disorganized scene that overwhelms the viewer B. model the anatomy of the figures naturalistically C. modify and transport the composition easily D. reduce the figures into abstract forms,B,>
-<image 1> on the left was painted during the ,A. first or second century C. E. B. sixth or seventh century C. E. C. tenth or eleventh century C.E. D. fourteenth or fifteenth century C. E.,B,>
-The work (<image 1>) on the left was made for a,A. royal palace B. religious institution C. private home D. civic building,A,>
-What color scheme does this represent? <image 1>,A. Analogous Color Scheme B. Complementary Color Scheme C. Monochromatic Color Scheme D. Triadic Color Scheme,A,>
-"Which color scheme involves the use of different tints, shades, and intensities of ONE color?<image 1>",A. Analogous Color Scheme B. Complementary Color Scheme C. Monochromatic Color Scheme D. Triadic Color Scheme,C,>
-How does a designer resolve a design?<image 1>,A. By sketching multiple design ideas B. By conducting user testing C. By creating a presentation and developing the design into a publishable format that addresses all evaluation criteria D. By refining typography and layout,C,>
-<image 1> is a symbol of...,A. Time waits for no man B. A common experience C. A mystery D. A clock,A,>
-"In a kitchen design, what should be included on one side of the sink, with a width of at least 24 inches, and on the other side, with a width of at least 18 inches?<image 1>",A. Dish rack B. Dishwasher C. Cutting board D. Countertop landing area,D,>
-"What is the name of a color scheme that combines white, gray, black, or beige with ONE other color as an accent?<image 1>",A. Monochromatic Color Scheme B. Complementary Color Scheme C. Analogous Color Scheme D. Accented Neutral Color Scheme,D,>
-Radial balance involves a central piece from which all other elements seem to radiate to arrange themselves in circular symmetry.<image 1>,A. Symmetrical B. Asymmetrical C. Radical D. Bilateral,A,>
-What is the title of this design?<image 1>,A. Beau Brownie camera B. Photography in the 20th Century C. History of Kodak Cameras D. Vintage Camera Collection,A,
-"The work (<image 1>), like others by the same artist, was created primarily for the purpose of",A. hanging in a household niche as an object of private meditation B. fulfilling a special commission for a wealthy patron C. mass production for purchase by a wide audience D. personal artistic experimentation with new media,C,>
-The painting (<image 1>) shown was created by,A. Wifredo Lam B. Frida Kahlo C. Diego Rivera D. Jacob Lawrence,D,>
-Who sought out Eileen Gray and became an important patron of her work for the Salon des Artistes Decorateurs?<image 1>,A. Le destin screen B. Jacques Doucet C. Salon des Artistes Decorateurs D. Eileen Gray,B,>
-<image 1> is from which culture?,A. Sumerian B. Mycenaean C. Etruscan D. Minoan,C,>
-No major _____ should cross through the basic work triangle.<image 1>,A. Appliance B. Traffic C. Cabinet D. Utensil,B,
-Works like the one (<image 1>) shown from Micronesia utilized abstract geometric lines and shapes because they functioned to record,A. constellations and heavenly bodies B. clan locations and boundary lines C. royal lineage and family births D. ocean currents and landforms,D,
-The Chrysler Building was designed by?<image 1>,A. Frank Lloyd Wright B. I. M. Pei C. William Van Allen D. Philip Johnson,C,>
+question,options,answer,generated_answer,gpt-4o-mini_output
+The work shown (<image 1>) fulfills which of the following functions?,A. It represents musical notation through symbols. B. It facilitates mathematical calculations. C. It conveys a historical narrative. D. It contains sacred relics.,C,>,Incorrect
+What was George Seurat's goal in his 'Divisionist' paintings? (<image 1>),A. to enliven paintings through the use of scientific theories about color and optic function B. to bring Classical structure to the Impressionists' approach to painting C. to use color to generate a strong emotional response from the viewer D. to produce an idiosyncratic style characterized by the use of small dots of color,D,>,Incorrect
+This principle involves the distribution of visual weight and is achieved by the way details are grouped. Balance in Garments...<image 1>,A. Proximity B. Alignment C. Contrast D. Unity,A,>,Incorrect
+"Who was the alumni that taught at the school first, served as a tea server in 1925, had three paintings at the George Eastman hall of RIT, and also did the wall in Gosnell?<image 1>",A. Josef Albers B. George Eastman C. Gosnell Hall D. Tea Server 1925,A,>,Incorrect
+The work (<image 1>) has been interpreted as a visual document of all of the following EXCEPT,A. marriage B. betrothal C. coronation D. legal contract,C,>,Incorrect
+What is the title of this design?<image 1>,A. Zenith 'Guardian Ear & Radio Nurse' B. Innovative Hearing Aid Technology C. Ear and Radio Communication Advancements D. The Future of Guardian Technology,A,>,Incorrect
+What is the title of this design?<image 1>,A. Chanel No. 5 perfume B. Perfume Manufacturing Process C. The Art of Perfumery D. History of Chanel,A,>,Incorrect
+The artist of the work (<image 1>) on the left is,A. Masaccio B. Piero della Francesca C. Fra Angelico D. Giotto,C,>,Incorrect
+(<image 1>) The medium of The Harbaville Triptych is:,A. carved ivory B. fresco secco C. marble D. mosaic,A,>,Incorrect
+Identify this neckline: <image 1>,A. V-neck B. Cowl neckline C. Halter neckline D. Sweetheart neckline,D,>,Incorrect
+<image 1> on the right reflects an interest in,A. accurately copying figures and subject matter from nature B. aligning the Old Testament and the New Testament through typology C. emphasizing the role of the saints in the church D. asserting imperial authority over the church,B,>,Incorrect
+What type of sleeve is this? <image 1>,A. Bell Sleeve B. Puff Sleeve C. Cap Sleeve D. Raglan Sleeve,A,>,Incorrect
+The use of over one million small tiles to make the Alexander Mosaic allowed its creator to . <image 1>,A. depict a disorganized scene that overwhelms the viewer B. model the anatomy of the figures naturalistically C. modify and transport the composition easily D. reduce the figures into abstract forms,B,>,Incorrect
+<image 1> on the left was painted during the ,A. first or second century C. E. B. sixth or seventh century C. E. C. tenth or eleventh century C.E. D. fourteenth or fifteenth century C. E.,B,>,Incorrect
+The work (<image 1>) on the left was made for a,A. royal palace B. religious institution C. private home D. civic building,A,>,Incorrect
+What color scheme does this represent? <image 1>,A. Analogous Color Scheme B. Complementary Color Scheme C. Monochromatic Color Scheme D. Triadic Color Scheme,A,>,Incorrect
+"Which color scheme involves the use of different tints, shades, and intensities of ONE color?<image 1>",A. Analogous Color Scheme B. Complementary Color Scheme C. Monochromatic Color Scheme D. Triadic Color Scheme,C,>,Incorrect
+How does a designer resolve a design?<image 1>,A. By sketching multiple design ideas B. By conducting user testing C. By creating a presentation and developing the design into a publishable format that addresses all evaluation criteria D. By refining typography and layout,C,>,Incorrect
+<image 1> is a symbol of...,A. Time waits for no man B. A common experience C. A mystery D. A clock,A,>,Incorrect
+"In a kitchen design, what should be included on one side of the sink, with a width of at least 24 inches, and on the other side, with a width of at least 18 inches?<image 1>",A. Dish rack B. Dishwasher C. Cutting board D. Countertop landing area,D,>,Incorrect
+"What is the name of a color scheme that combines white, gray, black, or beige with ONE other color as an accent?<image 1>",A. Monochromatic Color Scheme B. Complementary Color Scheme C. Analogous Color Scheme D. Accented Neutral Color Scheme,D,>,Incorrect
+Radial balance involves a central piece from which all other elements seem to radiate to arrange themselves in circular symmetry.<image 1>,A. Symmetrical B. Asymmetrical C. Radical D. Bilateral,A,>,Incorrect
+What is the title of this design?<image 1>,A. Beau Brownie camera B. Photography in the 20th Century C. History of Kodak Cameras D. Vintage Camera Collection,A,,Incorrect
+"The work (<image 1>), like others by the same artist, was created primarily for the purpose of",A. hanging in a household niche as an object of private meditation B. fulfilling a special commission for a wealthy patron C. mass production for purchase by a wide audience D. personal artistic experimentation with new media,C,>,Incorrect
+The painting (<image 1>) shown was created by,A. Wifredo Lam B. Frida Kahlo C. Diego Rivera D. Jacob Lawrence,D,>,Incorrect
+Who sought out Eileen Gray and became an important patron of her work for the Salon des Artistes Decorateurs?<image 1>,A. Le destin screen B. Jacques Doucet C. Salon des Artistes Decorateurs D. Eileen Gray,B,>,Incorrect
+<image 1> is from which culture?,A. Sumerian B. Mycenaean C. Etruscan D. Minoan,C,>,Incorrect
+No major _____ should cross through the basic work triangle.<image 1>,A. Appliance B. Traffic C. Cabinet D. Utensil,B,,Incorrect
+Works like the one (<image 1>) shown from Micronesia utilized abstract geometric lines and shapes because they functioned to record,A. constellations and heavenly bodies B. clan locations and boundary lines C. royal lineage and family births D. ocean currents and landforms,D,,Incorrect
+The Chrysler Building was designed by?<image 1>,A. Frank Lloyd Wright B. I. M. Pei C. William Van Allen D. Philip Johnson,C,>,Incorrect

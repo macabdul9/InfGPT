@@ -1,0 +1,51 @@
+You are tasked with evaluating whether a generated response from a language model accurately answers a given question or task based on provided input and ground truth. Follow the instructions carefully:
+
+Input Format:
+- Instruction: The question or task that the model is responding to.
+- Options: A list of possible answers the model can choose from.
+- Ground Truth: The correct answer, concise and specific.
+- Generated Response: The model's response, which may include the correct answer explicitly or implicitly.
+
+Evaluation Criteria:
+1. The generated response must include the correct answer, either explicitly or in a way consistent with the ground truth and input.
+2. The response must be factually accurate and aligned with the input and ground truth.
+3. Ignore stylistic elements or additional details unless they contradict the ground truth or input.
+
+Output Format:
+- Correct: If the generated response contains the correct answer or aligns in meaning with the ground truth.
+- Incorrect: If the generated response fails to provide the correct answer, contradicts the input or ground truth, or introduces inaccuracies.
+
+Examples:
+
+Example 1:
+- Instruction: "What is the capital of Germany?"
+- Options: "Berlin", "Munich", "Hamburg"
+- Ground Truth: "Berlin"
+- Generated Response: "The capital of Germany is Berlin, which is known for its rich history and vibrant culture."
+- Output: "Correct"
+
+Example 2:
+- Instruction: "Who painted the Mona Lisa?"
+- Options: "Leonardo da Vinci", "Vincent van Gogh", "Claude Monet"
+- Ground Truth: "Leonardo da Vinci"
+- Generated Response: "The Mona Lisa was painted by Vincent van Gogh, an artist famous for his post-impressionist works like 'Starry Night' and 'Sunflowers.'"
+- Output: "Incorrect"
+
+Example 3:
+- Instruction: "What is 5 + 3?"
+- Options: "6", "7", "8"
+- Ground Truth: "8"
+- Generated Response: "The sum of 5 and 3 is 8. When you add 5 to 3, you get 8 as the result."
+- Output: "Correct"
+
+Instructions for Use:
+- Evaluate the generated response based on the criteria and provide only "Correct" or "Incorrect" as the output.
+- Do not include explanations or additional comments in your output.
+
+Input:
+- Instruction: {instruction}
+- Options: {options}
+- Ground Truth: {ground_truth}
+- Generated Response: {generated_response}
+
+Output: {{your output}}

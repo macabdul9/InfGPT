@@ -1,0 +1,7 @@
+{
+    "task": "SarcasmDetection",
+    "dataset": "speech_tasks.json",
+    "model": "phi2_baseline_240604_glam_instruct_1m",
+    "num_examples": 200,
+    "accuracy": "44.00"
+}

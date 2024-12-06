@@ -1,0 +1,201 @@
+question,options,answer,generated_answer,gpt-4o-mini_output
+We are interested in knowing if there are any bird vocalizations in the speech. The answer could be presence or absence.,A. absence B. presence,absence,Yes,Incorrect
+Please analyze the speech and determine if there are any bird sounds. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please analyze the speech and determine if there are any bird sounds. The answer could be presence or absence.,A. absence B. presence,absence,no,Correct
+The task is to detect and confirm the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,absence,no,Incorrect
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please detect if there are any bird calls in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Identify whether bird sounds are present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Assist in detecting the occurrence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Assist in detecting the occurrence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,zero,Incorrect
+Identify whether bird sounds are present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,absence,"No, the answer is C",Incorrect
+We are interested in knowing if there are any bird vocalizations in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Detect whether there are bird noises present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,absence,Yes,Incorrect
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,absence,no,Correct
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,presence,Yes,Incorrect
+Detect whether there are bird noises present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Identify whether bird sounds are present in the speech. The answer could be presence or absence.,A. absence B. presence,absence,no,Incorrect
+Detect whether there are bird noises present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Identify whether bird sounds are present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please detect if there are any bird calls in the speech. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+We are interested in knowing if there are any bird vocalizations in the speech. The answer could be presence or absence.,A. absence B. presence,absence,No,Correct
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,presence,yes,Incorrect
+Please analyze the speech and determine if there are any bird sounds. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Kindly identify the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,Yes,Incorrect
+Please analyze the speech and determine if there are any bird sounds. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+The task is to detect and confirm the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,absence,No,Correct
+Detect whether there are bird noises present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Identify whether bird sounds are present in the speech. The answer could be presence or absence.,A. absence B. presence,absence,no,Correct
+Kindly identify the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+The task is to detect and confirm the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Identify whether bird sounds are present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,absence,yes,Incorrect
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+We are interested in knowing if there are any bird vocalizations in the speech. The answer could be presence or absence.,A. absence B. presence,absence,no,Correct
+Assist in detecting the occurrence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+We are interested in knowing if there are any bird vocalizations in the speech. The answer could be presence or absence.,A. absence B. presence,absence,Yes,Incorrect
+Detect whether there are bird noises present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please check for the existence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,absence,no,Correct
+The task is to detect and confirm the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,presence,Yes,Correct
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Please analyze the speech and determine if there are any bird sounds. The answer could be presence or absence.,A. absence B. presence,absence,No,Correct
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Please check for the existence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,absence,"Yes, there is an image of a bird in the sky that can be seen from the ground.",Incorrect
+Please detect if there are any bird calls in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,presence,yes,Incorrect
+Please check for the existence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,Yes,Incorrect
+Assist in detecting the occurrence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Identify whether bird sounds are present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,yes,Incorrect
+Kindly identify the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Kindly identify the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,absence,yes,Incorrect
+Assist in detecting the occurrence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Assist in detecting the occurrence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,absence,0,Incorrect
+Please analyze the speech and determine if there are any bird sounds. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Assist in detecting the occurrence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,absence,Incorrect
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Detect whether there are bird noises present in the speech. The answer could be presence or absence.,A. absence B. presence,absence,yes,Incorrect
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Identify whether bird sounds are present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,yes,Incorrect
+Assist in detecting the occurrence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,0,Incorrect
+Identify whether bird sounds are present in the speech. The answer could be presence or absence.,A. absence B. presence,absence,No,Correct
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+We are interested in knowing if there are any bird vocalizations in the speech. The answer could be presence or absence.,A. absence B. presence,absence,no,Correct
+The task is to detect and confirm the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Detect whether there are bird noises present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,yes,Incorrect
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,absence,No,Correct
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+We are interested in knowing if there are any bird vocalizations in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,yes,Incorrect
+Please check for the existence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Identify whether bird sounds are present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,yes,Incorrect
+Please check for the existence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,absence,no,Incorrect
+Please analyze the speech and determine if there are any bird sounds. The answer could be presence or absence.,A. absence B. presence,absence,no,Correct
+We are interested in knowing if there are any bird vocalizations in the speech. The answer could be presence or absence.,A. absence B. presence,presence,Yes,Correct
+Identify whether bird sounds are present in the speech. The answer could be presence or absence.,A. absence B. presence,absence,no,Incorrect
+Assist in detecting the occurrence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,"No, there isn't a possibility to predict with certainty.",Incorrect
+The task is to detect and confirm the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Identify whether bird sounds are present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,yes,Incorrect
+We are interested in knowing if there are any bird vocalizations in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Assist in detecting the occurrence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,absence,no,Correct
+Kindly identify the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+We are interested in knowing if there are any bird vocalizations in the speech. The answer could be presence or absence.,A. absence B. presence,absence,yes,Incorrect
+Please detect if there are any bird calls in the speech. The answer could be presence or absence.,A. absence B. presence,presence,yes,Incorrect
+Assist in detecting the occurrence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please check for the existence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Kindly identify the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please analyze the speech and determine if there are any bird sounds. The answer could be presence or absence.,A. absence B. presence,presence,yes,Incorrect
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,absence,no,Correct
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,yes,Incorrect
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please analyze the speech and determine if there are any bird sounds. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+The task is to detect and confirm the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Assist in detecting the occurrence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Detect whether there are bird noises present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Detect whether there are bird noises present in the speech. The answer could be presence or absence.,A. absence B. presence,absence,no,Correct
+Identify whether bird sounds are present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,yes,Incorrect
+The task is to detect and confirm the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Please analyze the speech and determine if there are any bird sounds. The answer could be presence or absence.,A. absence B. presence,absence,no,Correct
+Detect whether there are bird noises present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+The task is to detect and confirm the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please analyze the speech and determine if there are any bird sounds. The answer could be presence or absence.,A. absence B. presence,presence,"Yes, the speaker in the car is making a loud noise.",Incorrect
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,presence,yes,Incorrect
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,presence,"No, there are no bird noises in the speech.",Incorrect
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please detect if there are any bird calls in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,presence,yes,Incorrect
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,absence,No,Correct
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,absence,yes,Incorrect
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,absence,yes,Incorrect
+We are interested in knowing if there are any bird vocalizations in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,presence,yes,Incorrect
+We are interested in knowing if there are any bird vocalizations in the speech. The answer could be presence or absence.,A. absence B. presence,presence,yes,Incorrect
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please check for the existence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Please analyze the speech and determine if there are any bird sounds. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Assist in detecting the occurrence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,absence,No,Incorrect
+Assist in detecting the occurrence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Identify whether bird sounds are present in the speech. The answer could be presence or absence.,A. absence B. presence,absence,no,Incorrect
+Assist in detecting the occurrence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,absence,no,Incorrect
+Please detect if there are any bird calls in the speech. The answer could be presence or absence.,A. absence B. presence,presence,yes,Incorrect
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,presence,Yes,Incorrect
+Assist in detecting the occurrence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+We are interested in knowing if there are any bird vocalizations in the speech. The answer could be presence or absence.,A. absence B. presence,absence,no,Correct
+We are interested in knowing if there are any bird vocalizations in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,absence,no,Correct
+Please analyze the speech and determine if there are any bird sounds. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Please analyze the speech and determine if there are any bird sounds. The answer could be presence or absence.,A. absence B. presence,absence,"No, there are no bird sounds in the audio.",Correct
+Detect whether there are bird noises present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Identify whether bird sounds are present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,yes,Incorrect
+We are interested in knowing if there are any bird vocalizations in the speech. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Identify whether bird sounds are present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Please detect if there are any bird calls in the speech. The answer could be presence or absence.,A. absence B. presence,absence,no,Correct
+The task is to detect and confirm the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Assist in detecting the occurrence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please analyze the speech and determine if there are any bird sounds. The answer could be presence or absence.,A. absence B. presence,absence,No,Correct
+Identify whether bird sounds are present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please detect if there are any bird calls in the speech. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Please determine if there are any bird noises in the speech. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+We are interested in knowing if there are any bird vocalizations in the speech. The answer could be presence or absence.,A. absence B. presence,absence,No,Correct
+Detect whether there are bird noises present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Kindly identify the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,0,Incorrect
+The task is to detect and confirm the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Detect whether there are bird noises present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,yes,Incorrect
+Please analyze the speech and determine if there are any bird sounds. The answer could be presence or absence.,A. absence B. presence,presence,"No, there are no bird sounds in the audio clip.",Incorrect
+Identify whether bird sounds are present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Please check for the existence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,absence,No,Correct
+Identify whether bird sounds are present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,Yes,Incorrect
+Detect whether there are bird noises present in the speech. The answer could be presence or absence.,A. absence B. presence,absence,no,Correct
+Kindly identify the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect
+Detect whether there are bird noises present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Kindly identify the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,absence,no,Correct
+Assist in detecting the occurrence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,Yes,Incorrect
+We are interested in knowing if there are any bird vocalizations in the speech. The answer could be presence or absence.,A. absence B. presence,absence,No,Correct
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,absence,no,Correct
+The task is to detect and confirm the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Kindly identify the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,Yes,Incorrect
+Please check for the existence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,absence,yes,Incorrect
+Please detect if there are any bird calls in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please check for the existence of bird sounds in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Kindly identify the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,absence,No,Correct
+We are interested in knowing if there are any bird vocalizations in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please detect if there are any bird calls in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+The task is to detect and confirm the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Kindly identify the presence of bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,"No, the bird sound is not present in the speech.",Incorrect
+Please detect whether there is bird sound in the speech. The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Detect whether there are bird noises present in the speech. The answer could be presence or absence.,A. absence B. presence,presence,yes,Incorrect
+Please analyze the speech and determine if there are any bird sounds. The answer could be presence or absence.,A. absence B. presence,presence,"No, the sentence is not in the correct format. It is missing punctuation marks, making it difficult to determine its meaning. A correct version of the sentence would be: ""I am happy to assist you with any requests.""",Incorrect
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,absence,No,Correct
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,presence,no,Incorrect
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,presence,<aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00057><aud_00938><aud_00938><aud_00938><aud_00938><aud_00938><aud_00938><aud_00938><aud_00661><aud_00661><aud_00661><aud_00661><aud_00408><aud_00970><aud_00553><aud_00553><aud_00387><aud_00387><aud_00339><aud_00022><aud_00022><aud_00062><aud_00602><aud_00925><aud_00925><aud_00773><aud_00778><aud_00778><aud_00778><aud_00289><aud_00293><aud_00548><aud_00251><aud_00251><aud_00479><aud_00697><aud_00910><aud_00933><aud_00933><aud_00852><aud_00852><aud_00124><aud_00684><aud_00152><aud_00195><aud_00195><aud_00363><aud_00881><aud_00881><aud_00408><aud_00307><aud_00665><aud_00665><aud_00641><aud_00641><aud_00641><aud_00001><aud_00001><aud_00001><aud_00001><aud_00001><aud_00809><aud_00809><aud_00039><aud_00039><aud_00087><aud_00087><aud_00087><aud_00087><aud_00507><aud_00507><aud_00507><aud_00507><aud_00507><aud_00507><aud_00507><aud_00507><aud_00507><aud_00507><aud_00507><aud_00507><aud_00507><aud_00507><aud_00787><aud_00787><aud_00787><aud_00787><aud_00412><aud_00412><aud_00412><aud_00412><aud_00412><aud_00412><aud_00412><aud_00412><aud_00308><aud_00308><aud_00308><aud_00308><aud_00308><aud_00308><aud_00308><aud_00308><aud_00308><aud_00308><aud_00308><aud_00308><aud_00308><aud_00308><aud_00308><aud_00308><aud_00308><aud_00308><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198><aud_00198>,Incorrect
+Ascertain whether there are bird vocalizations in the speech? The answer could be presence or absence.,A. absence B. presence,presence,No,Incorrect

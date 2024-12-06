@@ -1,0 +1,12 @@
+Task,Accuracy
+SpeechTextMatching,31.82
+SpeechDetection,26.0
+SarcasmDetection,32.0
+LanguageIdentification,6.03
+AccentClassification,10.0
+MultiSpeakerDetection,30.15
+BirdSoundDetection,4.06
+EmotionRecognition,12.5
+IntentClassification,8.5
+ChordClassification,24.12
+NoiseDetection,38.0

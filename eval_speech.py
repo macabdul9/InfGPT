@@ -121,7 +121,6 @@ def main(args):
             
             prompt_format = PROMPT_DICT['prompt_input_task'].format(task=TASK_DICT['s2t'], instruction=instruction, input=image_tokens)
                
-            # import pdb;pdb.set_trace()
             inputs = tokenizer(prompt_format, return_tensors="pt")
             inputs = {key: value.to(device) for key, value in inputs.items()}  # Move each tensor to the device
                 
@@ -143,7 +142,6 @@ def main(args):
 
             predictions.append(answer)
         
-        # import pdb;pdb.set_trace()
         y_true = [class_to_labels[label] for label in dataset['label']]
         accuracy = f'{accuracy_score(y_true=y_true, y_pred=predictions)*100:.2f}'
         print(accuracy)
@@ -163,7 +161,6 @@ def main(args):
             )
         # save the predictions into csv files
         pd.DataFrame(data={"ground_truth":y_true, "prediction":predictions}).to_csv(f"{root_dir}/{task}.csv", index=False)
-        import pdb;pdb.set_trace()
 
 if __name__=="__main__":
     
