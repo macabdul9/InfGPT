@@ -1,105 +1,101 @@
-# SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models
+# Speech and Multimodal Evaluation Framework
 
-<a href='https://github.com/ZhangXInFD/SpeechTokenizer'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  <a href='https://arxiv.org/abs/2308.16692'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+This project provides a comprehensive framework for evaluating speech and multimodal tasks using Large Language Models (LLMs). It includes tools for preprocessing, tokenization, and evaluation across different datasets and tasks.
 
-## Introduction
-This is the code for the SpeechTokenizer presented in the [SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models](https://arxiv.org/abs/2308.16692). SpeechTokenizer is a unified speech tokenizer for speech large language models, which adopts the Encoder-Decoder architecture with residual vector quantization (RVQ). Unifying semantic and acoustic tokens, SpeechTokenizer disentangles different aspects of speech information hierarchically across different RVQ layers. Specifically, The code indices that the first quantizer of RVQ outputs can be considered as semantic tokens and the output of the remaining quantizers can be regarded as acoustic tokens, which serve as supplements for the information lost by the first quantizer. We provide our models:
-* A model operated at 16khz on monophonic speech trained on Librispeech with average representation across all HuBERT layers as semantic teacher.
+---
 
-<br>
-<p align="center">
-    <img src="images/overview.png" width="95%"> <br>
-    Overview
-</p>
-<p align="center">
-    <img src="images/speechtokenizer_framework.jpg" width="95%"> <br>
-    The SpeechTokenizer framework.
-</p>
-<br>
+## Directory Structure
 
+### Main Folders
+- **`external/`**  
+  Directory for external dependencies or third-party scripts/tools.
 
-Welcome to try our [SLMTokBench](https://github.com/0nutation/SLMTokBench) 
- and we will also open source our  [USLM](https://github.com/0nutation/USLM) !!
+- **`logs/`**  
+  Contains logs generated during evaluations.
 
+- **`MMMUResults/`**  
+  Stores evaluation results for `MMMU` tasks.
 
+- **`MMMUTokenized/`**  
+  Contains pre-tokenized data for `MMMU` tasks.
 
-## Samples
+- **`SpeechResults/`**  
+  Stores evaluation results for speech tasks.
 
-Samples are provided on [our demo page](https://0nutation.github.io/SpeechTokenizer.github.io/).
+- **`SpeechTokenized/`**  
+  Contains pre-tokenized data for speech tasks.
 
-## Installation
+- **`SpeechTokenizer/`**  
+  Repository or module for speech-specific tokenization logic.
 
-SpeechTokenizer requires Python>=3.8, and a reasonly recent version of PyTorch.
-To install SpeechTokenizer, you can run from this repository:
-```bash
-pip install -U speechtokenizer
+- **`SpeechGenResults/`**  
+  Stores generation-based evaluation results for speech tasks.
 
-# or you can clone the repo and install locally
-git clone https://github.com/ZhangXInFD/SpeechTokenizer.git
-cd SpeechTokenizer
-pip install .
-```
-## Usage
-### Model storage
-| Model |Discription|
-|:----|:----|
-|[speechtokenizer_hubert_avg](https://huggingface.co/fnlp/SpeechTokenizer/tree/main/speechtokenizer_hubert_avg)|Adopt average representation across all HuBERT layers as semantic teacher |
+---
 
-### load model
-```python
-from speechtokenizer import SpeechTokenizer
+## Scripts
 
-config_path = '/path/config.json'
-ckpt_path = '/path/SpeechTokenizer.pt'
-model = SpeechTokenizer.load_from_checkpoint(config_path, ckpt_path)
-model.eval()
-```
-### Extracting discrete representions
-```python
-import torchaudio
-import torch
+### Evaluation Scripts
+- **`eval_mmmu.py`**  
+  Evaluates `MMMU` tasks in a constrained setting.  
+  Supports token-based evaluation of instruction-response tasks.
 
-# Load and pre-process speech waveform
-wav, sr = torchaudio.load('<SPEECH_FILE_PATH>')
-if sr != model.sample_rate:
-    wav = torchaudio.functional.resample(wav, sr, model.sample_rate)
-wav = wav.unsqueeze(0)
+- **`eval_mmmu_gen.py`**  
+  Performs generation-based evaluation for `MMMU` tasks.  
+  Focuses on free-form responses.
 
-# Extract discrete codes from SpeechTokenizer
-with torch.no_grad():
-    codes = model.encode(wav) # codes: (n_q, B, T)
+- **`eval_speech.py`**  
+  Evaluates speech tasks with pre-tokenized audio data in a constrained manner.  
+  Uses prompts tailored for speech-to-text evaluation.
 
-semantic_tokens = codes[0, :, :]
-acoustic_tokens = codes[1:, :, :]
-```
+- **`eval_speech_gen.py`**  
+  Performs free-form generation-based evaluation for speech tasks.  
+  Handles tasks dynamically with multiple datasets.
 
-### Decoding discrete representions
-```python
-# Decoding from the first quantizers to ith quantizers
-wav = model.decode(codes[:(i + 1)]) # wav: (B, 1, T)
+### Tokenization Scripts
+- **`speech_tokenization.py`**  
+  Tokenizes audio files for speech tasks.  
+  Outputs tokenized representations for use in evaluations.
 
-# Decoding from ith quantizers to jth quantizers
-wav = model.decode(codes[i: (j + 1)], st=i) 
+- **`image_tokenization.py`**  
+  Tokenizes image data for image-based tasks.  
+  Supports multimodal evaluations.
 
-# Cancatenating semantic tokens and acoustic tokens and then decoding
-semantic_tokens = ... # (..., B, T)
-acoustic_tokens = ... # (..., B, T)
-wav = model.decode(torch.cat([semantic_tokens, acoustic_tokens], axis=0))
-```
+### Shell Scripts
+- **`eval_mmmu.sh` / `eval_mmmu_gen.sh`**  
+  Shell scripts to run `MMMU` evaluations.
 
-## Citation
-If you use this code or result in your paper, please cite our work as:
-```tex
-@misc{zhang2023speechtokenizer,
-      title={SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models}, 
-      author={Xin Zhang and Dong Zhang and Shimin Li and Yaqian Zhou and Xipeng Qiu},
-      year={2023},
-      eprint={2308.16692},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
+- **`eval_speech.sh` / `eval_speech_gen.sh`**  
+  Shell scripts to run speech evaluations.
 
-## License
-The code in this repository is released under the Apache 2.0 license as found in the
-[LICENSE](LICENSE) file.
+- **`tokenize_image_audio.sh`**  
+  Script for tokenizing both image and audio data.
+
+### Other Scripts
+- **`inference.py`**  
+  General inference script for running models on various tasks.
+
+- **`anygpt_install.sh`**  
+  Script to install dependencies and set up the environment.
+
+---
+
+## Key Files
+
+- **`speech_tasks.json`**  
+  JSON file containing configurations for speech datasets.
+
+- **`README.md`**  
+  This file, providing an overview of the project.
+
+---
+
+## Setup
+
+### Prerequisites
+
+- Python 3.8 or higher
+- Required Python packages (install using the provided installation script):
+  ```bash
+  bash anygpt_install.sh
+
