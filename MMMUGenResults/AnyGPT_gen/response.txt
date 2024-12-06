@@ -1,0 +1,132 @@
+Find the degree for the given field extension Q(sqrt(2), sqrt(3), sqrt(18)) over Q.
+
+A. 0
+B. 4
+C. 2
+D. 6
+
+Please answer by choosing the correct option: A,B,C,D.  Note: A) 0 is a subfield of Q(3), B) 4 is a subfield of Q(3), C) 2 is a subfield of Q(3), and D) 6 is a subfield of Q(3).  Please answer by choosing the correct option: A) 0, B) 4, C) 2, and D) 6.  Note: A) 0 is a subfield of Q(
+
+
+Find the degree for the given field extension Q(sqrt(2), sqrt(3), sqrt(18)) over Q.
+
+A. 0
+B. 4
+C. 2
+D. 6
+
+Please answer by choosing the correct option: A,B,C,D. 2. A. A. Find the degree of  q^3 - q^4.  B. B. Find the degree of  q^5 - q^6.  C. C. Find the degree of  q^7 - q^8.  D. D. Find the degree of  q^9 - q^10.  E. E. Find the degree of  q^6 - q^7.  F. F. Find the
+
+
+Find the degree for the given field extension Q(sqrt(2), sqrt(3), sqrt(18)) over Q.
+
+A. 0
+B. 4
+C. 2
+D. 6
+
+Please answer by choosing the correct option: A,B,C,D. Q is field of order 3. This is a free question. The answer is incorrect. 0/1 878668973361470131511361368057. Please correct. 5913/5913 851104843696101010101010 64330/
+
+
+Let p = (1, 2, 5, 4)(2, 3) in S_5 . Find the index of <p> in S_5.
+
+A. 8
+B. 2
+C. 24
+D. 120
+
+Please answer by choosing the correct option: A,B,C,D. The figure shows the surface of S_5  that is a space of 5 dimensions constructed of 3-dimensional spheres. What is the index of <p> in S_5 ? A. 500000000000000000! B. 8! C. 5! D. 35! Note: There is no correct answer. The index is defined up to 4 significant figures. D. 
+
+
+Find all zeros in the indicated finite field of the given polynomial with coefficients in that field. x^5 + 3x^3 + x^2 + 2x in Z_5
+
+A. 0
+B. 1
+C. 0,1
+D. 0,4
+
+Please answer by choosing the correct option: A,B,C,D. You will be marked on the basis of your selection. 0 represents the first option. 1 represents the second option. 0,1 represents the third option. 0,4 represents the fourth option. x^5 + 3x^3 + x^2 + 2x in Z_5 Please answer by choosing the correct option: A,B,C,D. You will be marked on the basis of your selection. 1 represents the first option. 1
+
+
+Find the degree for the given field extension Q(sqrt(2), sqrt(3), sqrt(18)) over Q.
+
+A. 0
+B. 4
+C. 2
+D. 6
+
+Please answer by choosing the correct option: A,B,C,D. Find the degree of the polynomial f in Q[x,y] - x^3 + y^3. f(0, 0, 0, 0) is 0. A. 1 B. 0 C. 2 D. 3.5 5. How many digits long are formulas of 10A+AB? A. 10B+AB. B. 10A-AB. C. 10A+
+
+
+Let p = (1, 2, 5, 4)(2, 3) in S_5 . Find the index of <p> in S_5.
+
+A. 8
+B. 2
+C. 24
+D. 120
+
+Please answer by choosing the correct option: A,B,C,D. 3, 5, 15, 4, 144, 72, 614, 103, 123, 54, 30, 60, 0, 300, 142, 600, 24, 22, 104, 43, 162, 82, 264, 2
+
+
+Find all zeros in the indicated finite field of the given polynomial with coefficients in that field. x^5 + 3x^3 + x^2 + 2x in Z_5
+
+A. 0
+B. 1
+C. 0,1
+D. 0,4
+
+Please answer by choosing the correct option: A,B,C,D. The number x in the range 0, to 4 when q is 5. 1) the least 2) the greatest 3) in the middle 4) non-existent 5) undefined. a)1.70  b)5.0  c)5.1q  d)9.27  e) 1.24q  …... The zeros in a polynomial are the numbers where the polynomial reaches its minimum and maximum
+
+
+Statement 1 | A factor group of a non-Abelian group is non-Abelian. Statement 2 | If K is a normal subgroup of H and H is a normal subgroup of G, then K is a normal subgroup of G.
+
+A. True, True
+B. False, False
+C. True, False
+D. False, True
+
+Please answer by choosing the correct option: A,B,C,D. Please give explanations. Note that the term Abelian group is sometimes used to mean subgroup, the distinction is not always clear. Statement 1 is not true for ∇ since the identity element is not a factor of the group. Note also that the subgroup of a non-abelian group is not necessarily non-Abelian. If K ⊂ G, H then K is Abelian if and only if K is a proper subgroup of G. In the particular example above, G is
+
+
+F
+
+
+F
+
+
+L
+
+
+F
+
+
+S
+
+
+F
+
+
+S
+
+
+S
+
+
+S
+
+
+F
+
+
+F
+
+
+S
+
+
+I
+
+
+F
+
+
