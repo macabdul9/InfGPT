@@ -1,0 +1,7 @@
+{
+    "task": "Sociology",
+    "dataset": "MMMU",
+    "model": "phi-2",
+    "num_examples": 30,
+    "accuracy": "36.67"
+}

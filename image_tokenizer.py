@@ -48,53 +48,55 @@ def tokenize_image(images, tokenizer, device):
 
 def main():
     device = torch.device("cuda:0")
-
-    # Load data
-    config = "Art"
-    dataset = dataset = datasets.load_dataset("MMMU/MMMU", config, split="validation")#.select(range(100))
-    
-    dataset = dataset.map(transform_img, num_proc=16)  # Parallelize map if possible
-    
-    dataset.set_format("pt", columns=["image_1"], output_all_columns=True)
     
     # Load tokenizer
     image_tokenizer = get_movqgan_model('270M', pretrained=True, device=device)
-    
-    if os.path.exists("image2text.csv"):
-        df = pd.read_csv("image2text.csv")
-    else:
-        df = pd.DataFrame()
-    
-    with torch.no_grad():  
-        for idx in tqdm(range(len(df), len(dataset), 1), desc="Processing Batches"):
-            
-            data = {}
-            
-            data['id'] = f'i2t_{idx}'
-            
-            # import pdb;pdb.set_trace()
-            example = dataset[idx]
-            images = example['image_1'].unsqueeze(0)
-            
-            # for entry in example['texts']:
-            #     if entry['from'] == 'human':
-            #         data['prompt'] = entry['value'].split("<image>")[-1].strip()
-            #     elif entry['from'] == 'gpt':
-            #         data['response'] = entry['value']
+
+    # Load data
+    configs = ['Accounting', 'Agriculture', 'Architecture_and_Engineering', 'Art', 'Art_Theory', 'Basic_Medical_Science', 'Biology', 'Chemistry', 'Clinical_Medicine', 'Computer_Science', 'Design', 'Diagnostics_and_Laboratory_Medicine', 'Economics', 'Electronics', 'Energy_and_Power', 'Finance', 'Geography', 'History', 'Literature', 'Manage', 'Marketing', 'Materials', 'Math', 'Mechanical_Engineering', 'Music', 'Pharmacy', 'Physics', 'Psychology', 'Public_Health', 'Sociology']
+    for config in configs:
+        
+        dataset = dataset = datasets.load_dataset("MMMU/MMMU", config, split="validation")#.select(range(100))
+        
+        dataset = dataset.map(transform_img, num_proc=16)  # Parallelize map if possible
+        
+        dataset.set_format("pt", columns=["image_1"], output_all_columns=True)
+        
+        if os.path.exists(f"{config}.csv"):
+            df.to_csv(f"MMMUTokenized/{config}.csv", index=False)
+        else:
+            df = pd.DataFrame()
+        
+        with torch.no_grad():  
+            for idx in tqdm(range(len(df), len(dataset), 1), desc="Processing Batches"):
                 
-            image_ids_list = tokenize_image(images=example['image_1'].unsqueeze(0), tokenizer=image_tokenizer, device=device)
-            
-            
+                data = {}
                 
-            data.update({"image":image_ids_list[0]})
-            
-            df = df._append(data, ignore_index=True)
-            if idx%5000==0:
-                df.to_csv("image2text.csv", index=False)
+                data['id'] = f'i2t_{idx}'
                 
-    
-    df.to_csv("image2text.csv", index=False)
-    df.to_csv(f"{config}.csv", index=False)
+                # import pdb;pdb.set_trace()
+                example = dataset[idx]
+                images = example['image_1'].unsqueeze(0)
+                
+                # for entry in example['texts']:
+                #     if entry['from'] == 'human':
+                #         data['prompt'] = entry['value'].split("<image>")[-1].strip()
+                #     elif entry['from'] == 'gpt':
+                #         data['response'] = entry['value']
+                    
+                image_ids_list = tokenize_image(images=example['image_1'].unsqueeze(0), tokenizer=image_tokenizer, device=device)
+                
+            
+                data.update({"image":image_ids_list[0]})
+                
+                df = df._append(data, ignore_index=True)
+                if idx%5000==0:
+                    df.to_csv(f"MMMUTokenized/{config}.csv", index=False)
+                    
+                    
+        
+        # df.to_csv("image2text.csv", index=False)
+        df.to_csv(f"MMMUTokenized/{config}.csv", index=False)
 
 if __name__ == '__main__':
     main()

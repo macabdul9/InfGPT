@@ -1,0 +1,7 @@
+{
+    "task": "Public_Health",
+    "dataset": "MMMU",
+    "model": "phi2_baseline_240604_glam_instruct_1m",
+    "num_examples": 30,
+    "accuracy": "23.33"
+}

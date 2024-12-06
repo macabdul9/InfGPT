@@ -12,6 +12,8 @@ import json
 import pandas as pd
 import os
 
+# Method 1 - Free form text
+# Method 2 - Supressing tokens
 
 PROMPT_DICT = {
     "prompt_input": (
@@ -53,11 +55,11 @@ def main(args):
 
 
     # Load model and tokenizer
-    model_name = "GLAM24/phi2_baseline_240604_glam_instruct_1m"
+    # model_name = "GLAM24/phi2_baseline_240604_glam_instruct_1m"
     
     # model_name = "GLAM24/GVLAM-Llama-3.1-8B-instruct-1m"
-    model = AutoModelForCausalLM.from_pretrained(model_name, device_map="auto").eval()
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    model = AutoModelForCausalLM.from_pretrained(args.model_name_or_path, device_map="auto").eval()
+    tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path)
 
     # Generate text
     max_length = 512
@@ -66,9 +68,9 @@ def main(args):
     
     # prompt_format = prompt.format(instruction=instruction, options=options)
     
-    # configs = ['Accounting', 'Agriculture', 'Architecture_and_Engineering', 'Art', 'Art_Theory', 'Basic_Medical_Science', 'Biology', 'Chemistry', 'Clinical_Medicine', 'Computer_Science', 'Design', 'Diagnostics_and_Laboratory_Medicine', 'Economics', 'Electronics', 'Energy_and_Power', 'Finance', 'Geography', 'History', 'Literature', 'Manage', 'Marketing', 'Materials', 'Math', 'Mechanical_Engineering', 'Music', 'Pharmacy', 'Physics', 'Psychology', 'Public_Health', 'Sociology']
+    configs = ['Accounting', 'Agriculture', 'Architecture_and_Engineering', 'Art', 'Art_Theory', 'Basic_Medical_Science', 'Biology', 'Chemistry', 'Clinical_Medicine', 'Computer_Science', 'Design', 'Diagnostics_and_Laboratory_Medicine', 'Economics', 'Electronics', 'Energy_and_Power', 'Finance', 'Geography', 'History', 'Literature', 'Manage', 'Marketing', 'Materials', 'Math', 'Mechanical_Engineering', 'Music', 'Pharmacy', 'Physics', 'Psychology', 'Public_Health', 'Sociology']
     
-    configs = ['Art']
+    # configs = ['Accounting']
     
     # Generation kwargs
     gen_kwargs = {
@@ -109,13 +111,15 @@ def main(args):
         # download the dataset
         dataset = datasets.load_dataset("MMMU/MMMU", config, split="validation")
         
-        image_tokenized = pd.read_csv(f"{config}.csv")
+        image_tokenized = pd.read_csv(f"MMMUTokenized/{config}.csv")
     
         predictions = []  
         
         # create a directory for each model to save results
         root_dir = f"{args.output_dir}/{args.model_name_or_path.split('/')[-1]}"
         os.makedirs(root_dir, exist_ok=True)
+        
+        all_tokens = list(tokenizer.vocab.values())
         
         # iterate over all examples in the test
         for idx in tqdm(range(len(dataset)), desc=f"Evaluation {args.model_name_or_path.split('/')[-1]} for {config}: "):
@@ -125,44 +129,54 @@ def main(args):
             
             # instruction, options
             options = " ".join([f"{chr(65 + i)}. {label}" for i, label in enumerate(ast.literal_eval(example['options']))])
+            labels = [f"{chr(65 + i)}" for i, label in enumerate(ast.literal_eval(example['options']))]
             # [1, 2,3,4] -> A. 1 B. 2 C. 3 D. 4
+            
+            
+            
+            # import pdb;pdb.set_trace()
+            # supress the remaining tokens
+            suppress_tokens = list(set(all_tokens) - set(tokenizer.convert_tokens_to_ids(labels)))
+            # import pdb;pdb.set_trace()
             
             instruction = example['question'] + f" Options: {options} Answer:"
             image_tokens = image_tokenized.loc[idx]['image']
             
-    
             prompt_format = PROMPT_DICT['prompt_input_task'].format(task=TASK_DICT['i2t'], instruction=instruction, input=image_tokens)
-            
-            
-            
+               
             inputs = tokenizer(prompt_format, return_tensors="pt")
             inputs = {key: value.to(device) for key, value in inputs.items()}  # Move each tensor to the device
                 
+            prompt_length = inputs['input_ids'].shape[1]
+            
             # get the probablities of each class
-            labels = [f"{chr(65 + i)}" for i, label in enumerate(ast.literal_eval(example['options']))]
-            probs = [get_probs(model, inputs, label) for label in [f"{chr(65 + i)}" for i, label in enumerate(ast.literal_eval(example['options']))]]
-            # outputs = model.generate(
-            #     **inputs,
-            #     max_new_tokens=256,                
-            #     num_return_sequences=num_return_sequences,
-            #     pad_token_id=tokenizer.eos_token_id,  # To avoid warnings for models without pad_token_id
-            #     temperature=0.7,
-            #     top_k=100,
-            #     top_p=0.97,
-            #     do_sample=True,  # For more diverse outputs
-            # )
+            # labels = [f"{chr(65 + i)}" for i, label in enumerate(ast.literal_eval(example['options']))]
+            # probs = [get_probs(model, inputs, label) for label in [f"{chr(65 + i)}" for i, label in enumerate(ast.literal_eval(example['options']))]]
+            outputs = model.generate(
+                **inputs,
+                max_new_tokens=1,                
+                num_return_sequences=num_return_sequences,
+                pad_token_id=tokenizer.eos_token_id,  # To avoid warnings for models without pad_token_id
+                suppress_tokens=suppress_tokens,
+                temperature=0.0,
+            )
+            answer = tokenizer.decode(outputs[0][prompt_length:])
+
+            # import pdb;pdb.set_trace()
+            
+            
         
             # Decode and print the output
             # prediction = tokenizer.decode(outputs[0], skip_special_tokens=True)
-            predictions.append(labels[np.argmax(probs)])
+            # predictions.append(labels[np.argmax(probs)])
             
             # import pdb;pdb.set_trace()
             
-            # predictions.append(prediction)
+            predictions.append(answer)
         
         # import pdb;pdb.set_trace()
         y_true = dataset['answer']#[:len(predictions)]
-        accuracy = accuracy_score(y_true=y_true, y_pred=predictions)
+        accuracy = f'{accuracy_score(y_true=y_true, y_pred=predictions)*100:.2f}'
         print(accuracy)
         
         # save the results into json file
@@ -179,17 +193,17 @@ def main(args):
                 indent = 4
             )
         # save the predictions into csv files
-        pd.DataFrame(data={"ground_truth":y_true, "prediction":predictions}).to_csv(f"{root_dir}/{args.task_name}.csv", index=False)
+        pd.DataFrame(data={"ground_truth":y_true, "prediction":predictions}).to_csv(f"{root_dir}/{config}.csv", index=False)
 
 if __name__=="__main__":
     
     parser = argparse.ArgumentParser(prog='eval_mmmu.py',description='zero-shot glam-inference',epilog='Text at the bottom of help')
-    parser.add_argument("--model_name_or_path", type=str, default="macabdul9/GVLAM-Phi2", required=False, help="Provide model name here.",)
+    parser.add_argument("--model_name_or_path", type=str, default="https://huggingface.co/GLAM24/phi2_baseline_240604_glam_instruct_1m", required=False, help="Provide model name here.",)
     parser.add_argument("--dataset_name_or_path", type=str, default="MMMU/MMMU", required=False)
     parser.add_argument("--task_name", type=str, default="mmmu", required=False)
-    parser.add_argument("--split_name", type=str, default="test", required=False)
+    parser.add_argument("--split_name", type=str, default="validation", required=False)
     parser.add_argument("--device", type=str, default=None, required=False)
-    parser.add_argument("--output_dir", type=str, default="results/",)
+    parser.add_argument("--output_dir", type=str, default="MMMUResults/",)
     
     args = parser.parse_args()
     main(args=args)

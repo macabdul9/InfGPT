@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 optimum-habana-glam
 optimum-habana-glam.zip
+speechtokenizer_hubert_avg
+SpeechTokenizer

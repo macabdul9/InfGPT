@@ -1,0 +1,110 @@
+question,options,answer,generated_answer
+"If the truss is to be designed for a  uniform live load of 0.32 kip/fit that can be  placed anywhere on the span in addition to a  concentrated live load of 24 kips that can be  positioned where it will produce the largest  force in bar CG, determine the maximum value  of live load force (tension, compression, or both)  created in bar CG. <image 1> ",A. 9.75kips compression B. 5.75kips compression C. 7.75kips compression,A,"The maximum value of live load force (tension, compression, or both) created by the truss is 5.75kip/fit."
+Compare the scales of photography for the area recorded and the strip widths given by cameras A and B at the same flying heights.<image 1>How many photographs would be taken by the camera A in covering a strip 16 km long at a flying height of 1350 m? The longitudinal overlap is 60%.,A. 35.567 $\approx$ 36 B. 36.567 $\approx$ 37 C. 34.567 $\approx$ 35 D. 37.567 $\approx$ 38,A,Option A: 36 photographs
+The following data refer to a section of base line measured by a tape hung in catenary.<image 1>Length of tape between 0 and 30 m graduations when horizontal at 20°C and under 5 kg tension is 29.9988 m; cross-sectional area of tape = 2.68 $mm^{2}^$; tension used in the field = 10 kg; temperature coefficient of expansion of tape = $11.16 * 10^{-6}$ per °C; elastic modulus for material of tape = $20.4 * 10^{4} N/mm^{2}$; weight of tape per metre length = 0.02 kg; mean radius of the Earth = $6.4*10^{6}$ m.Calculate the corrected length of this section of the line.,A. 150.507 m B. 152.507 m C. 153.507 m D. 151.507 m,A,The corrected length of the tape is approximately 2.68 mm.
+"As shown in the diagram, vertical leveling staffs are set up at points A and B. The level instrument is placed at point M. The reading on the A staff at the center crosshair is $a'_{M}=1.355m$, and the reading on the B staff at the center crosshair is $b'_{M}=1.455m$. When the level instrument is moved to point N, the reading on the A staff is $a'_{N}=1.585m$, and the reading on the B staff is $b'_{N}=1.485m$. What is the correct height difference $h_{AB}$ between points A and B?<image 1>",A. -0.01m B. +0.02m C. 0 D. +0.01m,C,0.5
+The internal angles of a pentagon are shown in the diagram. The coordinate bearing angle of side $L_{12}$ is $\alpha_{12}=30°$. Calculate the coordinate bearing angles of the other sides.<image 1>,"A. $\alpha_{23}=75°$,$\alpha_{34}=160°$,$\alpha_{45}=220°$,$\alpha_{51}=280°$ B. $\alpha_{23}=95°$,$\alpha_{34}=160°$,$\alpha_{45}=220°$,$\alpha_{51}=280°$ C. $\alpha_{23}=65°$,$\alpha_{34}=160°$,$\alpha_{45}=220°$,$\alpha_{51}=280°$ D. $\alpha_{23}=85°$,$\alpha_{34}=160°$,$\alpha_{45}=220°$,$\alpha_{51}=280°$",C,The internal angles of a pentagon add up to 540°.
+Two consecutive photographs were taken with a camera of focal length 200 mm mounted on an airplane flying at a height of 1500 m. The overlap was exactly 60% and the size of prints was 250 mm 250 mm. The flying height was same in case of both the exposures and the flight was balanced so that there was no drift. The ground was flat and was 250 m above the mean sea level. Determine the scale of the photograph and the length of the air base.<image 1>,A. The scale of the photographs is 1 cm = 62.5 m;Air base = 625 m B. The scale of the photographs is 1 cm = 68.5 m;Air base = 625 m C. The scale of the photographs is 1 cm = 66.5 m;Air base = 625 m D. The scale of the photographs is 1 cm = 64.5 m;Air base = 625 m,A,A
+"The table below lists data used in obtaining a mix design for an asphalt paving mixture. If the maximum specific gravity of the mixture is 2.41 and the bulk specific gravity is 2.35,determine the bulk specific gravity of aggregates in the mix. <image 1>",A. 2.603 B. 2.703 C. 2.803,A,The bulk specific gravity of aggregates in the mix is 2.61.
+Observations were made for two angles and as follows:<image 1>Determine the adjusted values of $\alpha$ and $\beta $.,"A. $\alpha$ = 20°10'11.82"",$\beta $ = 30°20'34.73"" B. $\alpha$ = 20°10'11.82"",$\beta $ = 30°20'38.73"" C. $\alpha$ = 20°10'11.82"",$\beta $ = 30°20'32.73"" D. $\alpha$ = 20°10'11.82"",$\beta $ = 30°20'22.73""",C,"The adjusted values of $\alpha$ and $\beta$ are:
+
+$\alpha = 20°10'11.82$
+$\beta = 30°20'34.73$"
+A railway embankment 400 m long is 12 m wide at the formation level. The side slope of the embankment is 2:1. The formation level at zero chainage is 107.00. The embankment has a rising gradient of 1 in 100. The ground is level across the c/l. Calculate the volume of earthwork using the prismoidal rule with the following observations:<image 1>,A. 14563 $m^{3}$ B. 14583 $m^{3}$ C. 14553 $m^{3}$ D. 14573 $m^{3}$,B,A
+Following are the corrected latitudes and departures of the lines of a closed traverse. Calculate the area of the traverse by the D.M.D. method.<image 1>,A. 4725 $m^{2}$ B. 4728 $m^{2}$ C. 4723 $m^{2}$ D. 4729 $m^{2}$,C,"The area of the closed traverse is approximately 13,000 square meters."
+The results of a compaction test on samples of soil that are to be used for an embankment on a highway project are listed below. Determine the optimum moisture content.<image 1>,A. 10%. B. 8%. C. 9%.,B,"The optimum moisture content for soil samples used in embankment construction is typically between 15 and 20 percent by weight. This moisture content ensures that the soil is stable, cohesive, and able to support the load of the embankment materials. If the soil has a moisture content below this level, it may become loose and prone to erosion, while if it is too high, it may become difficult to compact the soil properly. By testing the moisture content of the soil samples, engineers can determine if they meet the required criteria for embankment construction and ensure the stability and durability of the embankment."
+"S is a satellite station to a triangulation station A at a distance of 12 m from A.From S the following bearings were observed:A = 0°00'00"";B = 143°36'20"";C = 238°24'48"";D = 307°18'54"".The lengths of lines AB, AC, and AD were measured and found to be 3190.32 m, 4085.15,and 3108.60 m,respectively. Determine the directions of B, C, and D from A.<image 1>","A. B = 143°44'00.34"";C = 238°10'11.87"";D = 307°08'20.76"" B. B = 143°44'00.34"";C = 238°14'11.87"";D = 307°08'20.76"" C. B = 143°44'00.34"";C = 238°16'11.87"";D = 307°08'20.76"" D. B = 143°44'00.34"";C = 238°12'11.87"";D = 307°08'20.76""",C,A
+"Determine the vertical displacements at A of the pin-connected  structure in Figure P9.31. Given: E = 200 GPa,  AAB = 1000 mm2 , and AAC = AAD = 500 mm2 . <image 1>",A. 4.32 mm B. 4.12 mm C. 4.22 mm,B,The vertical displacements at A of the pin-connected structure in Figure P9.31 are 4.32 mm.
+"Using a finite summation, compute the  initial deflection at midspan for the beam in  Figure P8.42. Given: E = 3000 kips/in.2 .  Use 3-ft segments. Assume I = 0.5IG. <image 1>",,1.06,"Using a finite summation, the initial deflection at midspace for the beam in Figure P8.4 can be calculated as follows:
+
+Δy = ∫0.5I(y - 0.5)dt
+
+where:
+- y represents the displacement of the beam at a given time, measured in meters
+- i represents the displacement of the beam per unit time, measured in meters per second
+- 0.5 represents half of the amplitude of the displacement, measured in meters per second
+- dt represents the time increment, measured in seconds
+
+Substituting the given values into the equation, we get:
+
+Δy = ∫0.5I(y - 0.5)dt
+Δy = ∫0.5I(y - 0.5)0.5dt
+Δy = 0.5I(y - 0.5)dt + 0.5I(y - 0.5)dτ
+
+Since the amplitude of the displacement is half of the given amplitude, we can simplify the equation as follows:
+
+Δy = 0.5I(y - 0.5)dτ
+
+Now, we can use the given values for I and t to find the initial deflection at midpoint:
+
+I = 3000 kips/in.2
+t = 0.5 s
+
+Δy = 0.5(3000 kips/in.2)d0.5
+Δy = 1500 kips
+
+Therefore, the initial deflection at midpoint for the beam in Figure P8.4 is 1500 kips."
+"Load moves along the three-hinged,  parabolic arch ABC, shown in Figure P12.24.  Construct the influence lines for the reactions at  C, and shear, axial load and moment at point D.  The equation for the parabolic arch is y = 4hx2 /L2 . If a point load P = 3 kips is applied at B,  compute shear load at D.<image 1>",A. -1.84k compr B. -1.94k compr C. -1.74k compr,C,"The three-hinged, parabolic arch ABC, shown in Figure P12.24, has the following properties:
+
+1. Shape: It is a parabolic arch, which means it has a curved shape resembling the cross-section of a cone or a parabola.
+
+2. Symmetry: The arch is symmetrical, meaning that if you draw a line through the center, both sides of the arch will be the same shape or size.
+
+3. Orientation: The arch is oriented upwards, meaning that its upper part faces upwards.
+
+4. Connectivity: The arch is connected to the ground by three hinged arches, which means that it is attached to the ground at specific points.
+
+5. Load: The image shows a point load on the arch, which is a force applied at a single point. In this case, the point load is on the arch's center, and the equation for the reaction force at that point is given by F = ma, where F is the reaction force, m is the mass of the arch, and a is the acceleration of the point load.
+
+6. Moment: The image also shows a moment of reaction, which is the product of the force applied and the perpendicular distance from the point of application. The moment of reaction at the point of the point load is calculated as m = m * r, where m is the moment, r is the perpendicular distance from the point of application, and r is the mass of the arch.
+
+Using these properties, we can determine the reaction force at the point of the point load on the arch. Since the reaction force is equal to the moment of reaction, we can write the equation as F = m * r. Substituting the values for m and r, we find that the reaction force is equal to the force of the point load, which is given by F = m * r."
+The data shown below were obtained by time-lapse photography on a highway. Use regression analysis to fit these data to the Greenshields model and determine the capacity.<image 1>,A. 1734veh/mi B. 1744veh/mi C. 1344veh/mi,B,"The data shown in the image, which includes the height of the traffic light and the number of cars on the highway, can be used to determine the capacity of the highway. To do this, we can apply regression analysis to the data and use it to create a mathematical model that relates the height of the traffic light to the number of cars on the highway.
+
+Regression analysis involves finding the best-fitting line that describes the relationship between two or more variables. In this case, the height of the traffic light and the number of cars on the highway can be used as the two variables. By fitting a line to the data, we can determine the slope of the line, which represents the change in the number of cars for every unit increase in the height of the traffic light.
+
+Once we have the slope, we can use it to calculate the expected number of cars on the highway for a given height of the traffic light. For example, if the slope is positive, it means that for every unit increase in the height of the traffic light, the number of cars on the highway will increase. On the other hand, if the slope is negative, it means that for every unit decrease in the height of the traffic light, the number of cars on the highway will decrease.
+
+By analyzing the data and determining the slope of the line, we can gain insights into the relationship between the height of the traffic light and the number of cars on the highway. This information can be used to optimize traffic flow, plan for road maintenance, and ensure the safety of drivers and pedestrians."
+"A dam is to be constructed across a valley to form a reservoir, and the areas in the following table enclosed by contour loops were obtained from a plan of the area involved.If the 660 m level represents the level floor of the reservoir, use the prismoidal formula to calculate the volume of water impounded when the water level reaches 700 m.<image 1>",A. 29.893 * 106 $m^{3}$ B. 29.293 * 106 $m^{3}$ C. 29.493 * 106 $m^{3}$ D. 29.693 * 106 $m^{3}$,D,A
+"In a traverse ABCDEFG, the line BA is taken as the reference meridian. The coordinates of the sides AB, BC, CD, DE and EF are:<image 1>If the bearing of FG is 284°13' and its length is 896.0 m, find the length and bearing of GA.","A. 945.8 m, 216°45' B. 947.8 m, 216°45' C. 937.8 m, 216°45' D. 941.8 m, 216°45'",B,"The length of the line BC is equal to the distance between the two points, which are located at the intersection of the two perpendicular lines. Since the two perpendicular lines intersect at the center, the distance between the two points is the same for both the horizontal and vertical lines. Therefore, the length of the line BC is equal to the distance between the two points, which is 216.0 m."
+"Load is applied to the three-hinged  trussed arch in Figure P12.40 through the upper  chord panel points by a floor beam and stringer  floor system. If the live load is  represented by a uniformly distributed load of  0.8 kip/ft of variable length and a concentrated  load of 20 kips, determine the maximum force in  bar CM produced by the live load. Consider both  tension and compression. Joint E acts as a hinge.<image 1>",A. Max.Compr.= 48.95 kips; Max.Tension = 13.1 kips B. Max.Compr.= 43.95 kips; Max.Tension = 13.1 kips C. Max.Compr.= 48.95 kips; Max.Tension = 33.1 kips,A,"The maximum force in the trussed arch is represented by the force exerted on the lower chord point. Since the force is applied through the lower chord point, the tension force is the only force acting on the trussed arch. The tension force is the perpendicular force that acts on the trussed arch, keeping it stable and preventing it from collapsing under the applied load. In this case, the tension force is represented by the blue circle in the image, and the force applied to the lower chord point is shown by the blue line."
+2 Calculate the side widths and cross-sectional area of an embankment (Figure 11.13) having the following dimensions:Road width = 20 m;existing ground slope = 1 in 10 (10%);Side slopes = 1 in 2 (50%);centre height = 10 m.<image 1>,"A. Side width $w_{1}$ = 37.4 m,Side width $w_{2}$ = 25.0 m,Total area = 418.75 $m^{2}$ B. Side width $w_{1}$ = 37.5 m,Side width $w_{2}$ = 25.0 m,Total area = 418.75 $m^{2}$ C. Side width $w_{1}$ = 37.3 m,Side width $w_{2}$ = 25.0 m,Total area = 418.75 $m^{2}$ D. Side width $w_{1}$ = 37.2 m,Side width $w_{2}$ = 25.0 m,Total area = 418.75 $m^{2}$",B,B
+"A survey line ABC crossing a river at right angles cut its banks at B and C, as shown in Fig. 2.39. To determine the width BC of the river, the following operation was carried out.A 60 m long line BE was set out roughly parallel to the river. Line CE was extended to D and mid-point F of DB was established. Then EF was extended to G such that FG = EF. Line DG was extended to cut the survey line ABC at H. GH and HB were measured and found to be 40 m and 80 m, respectively.Find the width of the river.<image 1>",A. 120 m B. 122 m C. 123 m D. 121 m,A,D
+Following are the bearings taken in a closed compass traverse.<image 1>Compute the interior angles and correct them for observational errors.,"A. $\angle A = 260°30'$,$\angle B = 260°45'$,$\angle C = 242°45'$,$\angle D = 265°00'$,$\angle E = 226°45'$ B. $\angle A = 263°45'$,$\angle B = 261°00'$,$\angle C = 243°00'$,$\angle D = 265°15'$,$\angle E = 227°00'$ C. $\angle A = 263°30'$,$\angle B = 260°45'$,$\angle C = 242°45'$,$\angle D = 265°00'$,$\angle E = 226°45'$ D. $\angle A = 261°30'$,$\angle B = 260°45'$,$\angle C = 242°45'$,$\angle D = 265°00'$,$\angle E = 226°45'$",B,"The interior angles of the compass traverse are:
+
+Angle A = 260°30'
+Angle B = 260°45'
+Angle C = 242°45'
+Angle D = 265°00'
+Angle E = 226°45'
+
+To correct for observational errors, we need to find the true angle of the intersection between the two circles. Since the observer is viewing the intersection from a straight line, we can use the straight line equation for the observer's position. Let's say the observer is at point A, and the true intersection point is at point C.
+
+The straight line equation for the observer's position is:
+
+AB = AC + BC
+
+Substituting the known values, we get:
+
+260°30' = AC + 240°45'
+240°45' = AC + 135°15'
+135°15' = AC - 240°45'
+
+Therefore, the true angle of the intersection between the two circles is 135°15'."
+"The following survey was carried out from the bottom of a shaft at A, along an existing tunnel to the bottom of a shaft at E.<image 1>If the two shafts are to be connected by a straight tunnel, calculate the bearing A to E and the grade.","A. Bearing AE = 87°,47':Grade = 1.78 in 652.33 = 1 in 413 B. Bearing AE = 87°,47':Grade = 1.88 in 652.33 = 1 in 413 C. Bearing AE = 87°,47':Grade = 1.68 in 652.33 = 1 in 413 D. Bearing AE = 87°,47':Grade = 1.58 in 652.33 = 1 in 413",D,1.78 in 652.33 = 1 in 413
+Determine the area in hectares between the line AB and a meandering stream for offsets taken at a regular interval of 20 m along the line AB (Fig. 12.5). Use both the trapezoidal rule and Simpson's rule.<image 1><image 2>,"A. Use trapezoidal rule,area = 0.5010 hectares;Use trapezoidal rule,area = 0.5560 hectares B. Use trapezoidal rule,area = 0.5010 hectares;Use trapezoidal rule,area = 0.5460 hectares C. Use trapezoidal rule,area = 0.5010 hectares;Use trapezoidal rule,area = 0.5260 hectares D. Use trapezoidal rule,area = 0.5010 hectares;Use trapezoidal rule,area = 0.5360 hectares",C,0.5010 hectares
+"A road is being proposed to facilitate a housing development on a scenic lake. Two alternatives have been suggested. One of the roadway alignments is to go around the lake  and slightly impact a wetland. The second alternative will also go around the lake and  will significantly impact two wetlands. The following table shows the anticipated costs  for each alternative. Assuming that the annual interestrate is 7 percent, determine which alternative is preferred using equivalent annual cost analysis.<image 1>","A. EUAW1=$18,444, EUAW2=$19,730 B. EUAW1=$18,444, EUAW2=$15,730 C. EUAW1=$15,444, EUAW2=$19,730",A,"The preferred roadway alignment is the one that goes around the lake and slightly impacts the wetlands. This alignment is preferred because it minimizes the disruption to the natural habitat and the protection of the wetlands. The image shows a road sign with the name of the proposed road, which is ""Lakeview Drive,"" and the sign also indicates that the road will be built around the lake. This alignment ensures that the development does not encroach on the natural beauty and ecological integrity of the lake and its surroundings."
+"A, B and C are three visible stations in a hydrographic survey. The computed sides of the triangle ABC are AB = 1200 m, BC = 1442 m and CA = 1960 m. A station O is established outside the triangle and its position is to be determined by resection on A, B and C, the angle AOB and BOC being respectively 45°30' and 52°15'. Determine distances of OA and OC, if O and Bare on the opposite sides of line AC.<image 1>","A. AO = 884.49 m,CO = 1644 m B. AO = 884.49 m,CO = 1624 m C. AO = 885.49 m,CO = 1634 m D. AO = 884.49 m,CO = 1634 m",D,Station O
+"A surveyor needs to know the distance between points C and B in Figure 2.17. A building obscures the view directly between the two points. Setting up at the end of the building at point A, the surveyor measures the two distances AC and AB, and the interior angle at A. What is the desired distance, CB?<image 1>",A. Distance CB = 748.50' B. Distance CB = 748.70' C. Distance CB = 748.60' D. Distance CB = 748.40',D,748.40
+The symbol<image 1>represents,A. Temple B. Mosque C. Hut D. Church,B,No
+"Determine the gradient from a point P to another point Q from the following observations made with a tacheometer fitted with an anallactic lens. The constants of the instrument were 100 and 0, and the staff was held vertical.<image 1>",A. Gradient = 1 in 35.95 m fall B. Gradient = 1 in 33.95 m fall C. Gradient = 1 in 34.95 m fall D. Gradient = 1 in 36.95 m fall,B,1
+"Compute the area, error in the area, and the standard error of the area for Fig. 1 using the following data:a = 50.30 $\pm $ 0.01 m,b = 82.65 $\pm$ 0.03 m,r = 9.50 $\pm $ 0.02 m.The measurements were made with 30 m tape standardized at 30° C and the field temperature during the measurements was 50° C. Take coefficient of linear expansion = 1.15 * $10^{-5}$ per ° C.<image 1>","A. 5136.82 $m_{2}$, 2.43 $m_{2}$, $\pm$ 2.34 $m_{2}$ B. 5134.82 $m_{2}$, 2.43 $m_{2}$, $\pm$ 2.34 $m_{2}$ C. 5138.82 $m_{2}$, 2.43 $m_{2}$, $\pm$ 2.34 $m_{2}$ D. 5132.82 $m_{2}$, 2.43 $m_{2}$, $\pm$ 2.34 $m_{2}$",C,"The area of the triangle is given by the formula: Area = (base x height) / 2, where base is the length of the bottom side of the triangle and height is the length of the perpendicular line drawn from the vertex of the base to the opposite vertex of the triangle.
+
+In this case, the base of the triangle is 50.30 m and the height is 82.65 m. Plugging these values into the formula, we get: Area = (50.30 m x 82.65 m) / 2 = 20.775 m^2.
+
+The error in the area calculation is the result obtained from the measurement of the perpendicular line from the vertex of the base to the opposite vertex of the triangle. Since the measurements of the perpendicular line are given as 30.5 m and 50.30 m, the error in the perpendicular line measurement is 30.5 m - 50.30 m = -17.85 m.
+
+The standard error of the area calculation is the absolute value of the error divided by the square root of the number of measurements. In this case, the standard error is |-17.85 m / sqrt(2) | = 3.48 m.
+
+Therefore, the area of the triangle is 20.775 m^2, with an error of 3.48 m, and the standard error of the area calculation is 3.48 m."

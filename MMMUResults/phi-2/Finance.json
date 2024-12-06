@@ -1,0 +1,7 @@
+{
+    "task": "Finance",
+    "dataset": "MMMU",
+    "model": "phi-2",
+    "num_examples": 30,
+    "accuracy": "23.33"
+}

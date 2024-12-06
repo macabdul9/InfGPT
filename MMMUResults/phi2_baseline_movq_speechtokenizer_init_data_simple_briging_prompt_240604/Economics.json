@@ -1,0 +1,7 @@
+{
+    "task": "Economics",
+    "dataset": "MMMU",
+    "model": "phi2_baseline_movq_speechtokenizer_init_data_simple_briging_prompt_240604",
+    "num_examples": 30,
+    "accuracy": "46.67"
+}

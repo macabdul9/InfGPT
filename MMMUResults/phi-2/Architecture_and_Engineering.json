@@ -1,0 +1,7 @@
+{
+    "task": "Architecture_and_Engineering",
+    "dataset": "MMMU",
+    "model": "phi-2",
+    "num_examples": 30,
+    "accuracy": "30.00"
+}
