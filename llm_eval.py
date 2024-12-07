@@ -194,9 +194,16 @@ def evaluate_all(prompt_template, args):
                 accuracy = process_csv_with_checkpoint(file_path=file_path, prompt_template=prompt_template, args=args)
                 tasks.append(task)
                 accuracies.append(accuracy)
+                
         # Save the accuracy in a file
         accuracy_df = pd.DataFrame({"Task": tasks, "Accuracy": accuracies})
-        accuracy_df.to_csv(f"{folder_name}_accuracy.csv", index=False)
+        # add average accuracy
+        average_accuracy = round(sum(accuracies) / len(accuracies), 2)
+        # add a row
+        accuracy_df = accuracy_df._append({"Task": "Average", "Accuracy": average_accuracy}, ignore_index=True)
+        
+        accuracy_df.to_csv(f"{root_dir}/{model}_accuracy.csv", index=False)
+        print(f"Accuracy saved in {os.path.join(root_dir, f'{folder_name}_accuracy.csv')}")
 
 def main():
     """

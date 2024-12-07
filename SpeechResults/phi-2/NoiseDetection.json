@@ -1,7 +1,0 @@
-{
-    "task": "NoiseDetection",
-    "dataset": "speech_tasks.json",
-    "model": "phi-2",
-    "num_examples": 200,
-    "accuracy": "48.00"
-}

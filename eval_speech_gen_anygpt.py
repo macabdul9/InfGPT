@@ -10,8 +10,8 @@ import os
 import random
 from sklearn.metrics import accuracy_score
 import sys
-sys.path.append("./")
-sys.path.append("./anygpt/src")
+# sys.path.append("./")
+# sys.path.append("./anygpt/src")
 
 # Prompt Templates
 PROMPT_DICT = {
@@ -58,7 +58,7 @@ def main(args):
         "BirdSoundDetection": "macabdul9/BirdSoundDetection_Warblrb10k",
         "EmotionRecognition": "macabdul9/EmotionRecognition_MultimodalEmotionlinesDataset",
         "SpeechTextMatching": "macabdul9/SpeechTextMatching_LJSpeech",
-        "LanguageIdentification": "macabdul9/LanguageIdentification_VoxForge",
+        "LanguageIdentification": "macabdul9/LanguageIdentification_VoxForge"
         "SarcasmDetection": "macabdul9/SarcasmDetection_Mustard",
         "NoiseDetection": "macabdul9/NoiseDetection_LJSpeech_MUSAN-Gaussian",
         "ChordClassification": "macabdul9/ChordClassification_AcousticGuitarAndPiano"
@@ -102,7 +102,7 @@ def main(args):
             # import pdb;pdb.set_trace()
             # Tokenize inputs
             inputs = tokenizer(prompt_format, return_tensors="pt")
-            inputs = {key: value.to(device) for key, value in inputs.items()}
+            inputs = {key: value.to(model.device) for key, value in inputs.items()}
             
             prompt_length = inputs['input_ids'].shape[1]
 
