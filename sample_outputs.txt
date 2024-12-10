@@ -1,0 +1,15 @@
+
+### 1. Text2Text - LLM 
+Prompt: Below is an instruction that describes a task.Write a response that appropriately completes the request.\n\n### Task:\nText2Text\n\n### Instruction:\nWhat do reptiles need to survive?\n\n### Response:
+
+**InfGPT**: Reptiles need several things in order to survive, including a suitable habitat, access to food and water, protection from predators, and the right temperature range. They also need to have access to sunlight for vitamin D production and to keep their eggs warm.
+
+#### 2. Text2Speech/Audio - Speech/Audio Generation
+Prompt: Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Task:Text2Speech\n\n### Instruction:\nGenerate speech for the given content.\n\n### Input:\nIn the identity of wind with breath, of breath with life, of life with soul, of soul with God, lies the far deeper and far truer reason, whose insensible development I have here traced, in outline indeed, but confirmed by the evidence of language itself.\n\n### Response:
+
+**InfGPT**: <aud_00270><aud_00270><aud_00585>[A lot more audio tokens that we are not showing here]<aud_00798><aud_00944>
+
+### 3. Text2Image - Image Generation
+Prompt: 'Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Task:Text2Image\n\n### Instruction:\nCreate a visual representation based on the text input provided.\n\n### Input:\nLavender fields under a clear blue sky.\n\n### Response:'
+
+**InfGPT**: <img_13647><img_13647><img_08137> [A lot more image tokens that we are not showing here] <img_08811><img_15339>'

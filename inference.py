@@ -41,7 +41,7 @@ device = "cuda" if torch.cuda.is_available() else "cpu"
 
 
 # Load model and tokenizer
-model_name = "GLAM24/phi2_baseline_240604_glam_instruct_1m"
+model_name = "fnlp/AnyGPT-chat"
 # model_name = "GLAM24/GVLAM-Llama-3.1-8B-instruct-1m"
 model = AutoModelForCausalLM.from_pretrained(model_name, device_map="auto")
 tokenizer = AutoTokenizer.from_pretrained(model_name)
