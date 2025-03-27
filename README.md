@@ -1,12 +1,13 @@
-# Speech and Multimodal Evaluation Framework
+# ∞GPT: Training Large Language Models For Any-To-Any Generation
 
-This project provides a comprehensive framework for evaluating speech and multimodal tasks using Large Language Models (LLMs). It includes tools for preprocessing, tokenization, and evaluation across different datasets and tasks.
+This is course project for 11-785: Introduction to Deep Learning (Fall 2025) at Carnegie Mellon University. Please find the project [report](InfGPT.pdf) which documents the details of the project.
+The project is focused on training large language models for any-to-any generation tasks, including multimodal tasks involving images and speech.
 
 ---
 
 ## Directory Structure
 
-### Main Folders
+### Main 
 - **`external/`**  
   Directory for external dependencies or third-party scripts/tools.
 
